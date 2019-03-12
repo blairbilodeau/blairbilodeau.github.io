@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://blairbilodeau.github.io/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
+      <link>https://blairbilodeau.github.io/publication/colocation/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://blairbilodeau.github.io/publication/person-re-id/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
+      <description>For my first undergraduate student research award, I built a simulation of patient flow through the internal medicine ward at London&amp;rsquo;s university hospital. We have resubmitted a manuscript to INFOR on February 12, 2019 for a minor revision. I presented this work at ORAHS in Oslo, Norway and CanQueue in Edmonton, Canada during the summer of 2018.</description>
     </item>
     
   </channel>

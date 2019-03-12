@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D.A. Stanford on Blair Bilodeau</title>
+    <link>https://blairbilodeau.github.io/authors/d.a.-stanford/</link>
+    <description>Recent content in D.A. Stanford on Blair Bilodeau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://blairbilodeau.github.io/authors/d.a.-stanford/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
+      <link>https://blairbilodeau.github.io/publication/colocation/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
+      <description>For my first undergraduate student research award, I built a simulation of patient flow through the internal medicine ward at London&amp;rsquo;s university hospital. We have resubmitted a manuscript to INFOR on February 12, 2019 for a minor revision. I presented this work at ORAHS in Oslo, Norway and CanQueue in Edmonton, Canada during the summer of 2018.</description>
+    </item>
+    
+    <item>
+      <title>Average waiting time for high priority customers in the M/G/1 accumulating priority queue</title>
+      <link>https://blairbilodeau.github.io/research/avg-wait/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/research/avg-wait/</guid>
+      <description>I completed the bulk of this work during my NSERC USRA in summer 2018. We are building on Stanford et. al.&amp;rsquo;s previous results involving the accumulating priority queue. Our current goal is to characterize the average waiting time for high priority customers.</description>
+    </item>
+    
+    <item>
+      <title>Probability distribution for accumulated priority of high priority customers in the M/M/1 accumulating priorty queue</title>
+      <link>https://blairbilodeau.github.io/research/priority-dist/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/research/priority-dist/</guid>
+      <description>I completed the bulk of this work during my NSERC USRA in summer 2018. We are building on Stanford et. al.&amp;rsquo;s previous results involving the accumulating priority queue. Our current goal is to characterize the average waiting time for high priority customers.</description>
+    </item>
+    
+  </channel>
+</rss>

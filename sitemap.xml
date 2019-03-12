@@ -12,8 +12,40 @@
     
     <url>
     
+      <loc>https://blairbilodeau.github.io/research/online-learning/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/publication/colocation/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://blairbilodeau.github.io/post/jupyter/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/research/avg-wait/</loc>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/research/priority-dist/</loc>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -36,40 +68,8 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://blairbilodeau.github.io/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://blairbilodeau.github.io/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://blairbilodeau.github.io/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://blairbilodeau.github.io/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -83,8 +83,8 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <loc>https://blairbilodeau.github.io/publication_types/2/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -92,8 +92,8 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00-04:00</lastmod>
+      <loc>https://blairbilodeau.github.io/authors/a.-appleton/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -119,6 +119,16 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/authors/b.l.-bilodeau/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -143,8 +153,16 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <loc>https://blairbilodeau.github.io/research/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/authors/d.-roy/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -152,8 +170,8 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <loc>https://blairbilodeau.github.io/authors/d.a.-stanford/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -161,17 +179,8 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/authors/ga-cushen/</loc>
-      <lastmod>2015-09-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://blairbilodeau.github.io/authors/ms-nixon/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <loc>https://blairbilodeau.github.io/authors/m.-goldszmidt/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -187,17 +196,8 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://blairbilodeau.github.io/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -206,7 +206,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/</loc>
-      <lastmod>2015-09-01T00:00:00-04:00</lastmod>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -247,6 +247,15 @@
     
       <loc>https://blairbilodeau.github.io/authors/admin/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/tags/research/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

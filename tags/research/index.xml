@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Blair Bilodeau</title>
+    <link>https://blairbilodeau.github.io/tags/research/</link>
+    <description>Recent content in research on Blair Bilodeau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://blairbilodeau.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Bayesian approach to online learning with expert advice</title>
+      <link>https://blairbilodeau.github.io/research/online-learning/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/research/online-learning/</guid>
+      <description>This is the first research project associated with my PhD. We are interested in the problem of making predictions in an online learning environment with expert advice with prior distributions on the performance of the experts.</description>
+    </item>
+    
+  </channel>
+</rss>
