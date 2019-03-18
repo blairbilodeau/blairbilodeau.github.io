@@ -49,11 +49,11 @@
     </item>
     
     <item>
-      <title>Current Research</title>
-      <link>https://blairbilodeau.github.io/home/research/</link>
+      <title>Conference Talks</title>
+      <link>https://blairbilodeau.github.io/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blairbilodeau.github.io/home/research/</guid>
+      <guid>https://blairbilodeau.github.io/home/talks/</guid>
       <description></description>
     </item>
     
@@ -67,11 +67,29 @@
     </item>
     
     <item>
+      <title>Current Research</title>
+      <link>https://blairbilodeau.github.io/home/current/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/home/current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Experience</title>
       <link>https://blairbilodeau.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://blairbilodeau.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Side Projects</title>
+      <link>https://blairbilodeau.github.io/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/home/projects/</guid>
       <description></description>
     </item>
     
@@ -94,29 +112,11 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://blairbilodeau.github.io/home/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>People</title>
       <link>https://blairbilodeau.github.io/home/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://blairbilodeau.github.io/home/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://blairbilodeau.github.io/home/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/home/talks/</guid>
       <description></description>
     </item>
     

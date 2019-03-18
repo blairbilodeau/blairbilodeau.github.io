@@ -4,15 +4,7 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/talk/example/</loc>
-      <lastmod>2030-06-01T13:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://blairbilodeau.github.io/research/online-learning/</loc>
+      <loc>https://blairbilodeau.github.io/publication/colocation/</loc>
       <lastmod>2019-02-12T00:00:00-05:00</lastmod>
     </url>
     
@@ -20,7 +12,7 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/publication/colocation/</loc>
+      <loc>https://blairbilodeau.github.io/publication/online-learning/</loc>
       <lastmod>2019-02-12T00:00:00-05:00</lastmod>
     </url>
     
@@ -36,7 +28,7 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/research/avg-wait/</loc>
+      <loc>https://blairbilodeau.github.io/publication/avg-wait/</loc>
       <lastmod>2019-02-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -44,8 +36,8 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/research/priority-dist/</loc>
-      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+      <loc>https://blairbilodeau.github.io/project/chicago/</loc>
+      <lastmod>2018-12-19T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -62,6 +54,30 @@
     
       <loc>https://blairbilodeau.github.io/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/talk/canqueue/</loc>
+      <lastmod>2018-08-17T10:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/publication/priority-dist/</loc>
+      <lastmod>2018-08-17T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/talk/orahs/</loc>
+      <lastmod>2018-08-02T15:30:00-04:00</lastmod>
     </url>
     
   
@@ -92,7 +108,7 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/authors/a.-appleton/</loc>
+      <loc>https://blairbilodeau.github.io/publication_types/3/</loc>
       <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -103,6 +119,15 @@
     
       <loc>https://blairbilodeau.github.io/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/authors/andrew-appleton/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -128,7 +153,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/b.l.-bilodeau/</loc>
-      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-19T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -145,6 +170,15 @@
     
     <url>
     
+      <loc>https://blairbilodeau.github.io/authors/blair-l.-bilodeau/</loc>
+      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://blairbilodeau.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -153,15 +187,7 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/research/</loc>
-      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://blairbilodeau.github.io/authors/d.-roy/</loc>
+      <loc>https://blairbilodeau.github.io/authors/daniel-m.-roy/</loc>
       <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -170,7 +196,7 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/authors/d.a.-stanford/</loc>
+      <loc>https://blairbilodeau.github.io/authors/david-a.-stanford/</loc>
       <lastmod>2019-02-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -179,8 +205,44 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/authors/m.-goldszmidt/</loc>
+      <loc>https://blairbilodeau.github.io/authors/ilze-ziedins/</loc>
+      <lastmod>2018-08-17T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/authors/mark-goldszmidt/</loc>
       <lastmod>2019-02-12T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/authors/maryam-mojalal/</loc>
+      <lastmod>2018-08-17T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/authors/na-li/</loc>
+      <lastmod>2018-08-17T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/authors/peter-taylor/</loc>
+      <lastmod>2018-08-17T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -214,7 +276,15 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/talk/</loc>
-      <lastmod>2030-06-01T13:00:00-04:00</lastmod>
+      <lastmod>2018-08-17T10:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/project/</loc>
+      <lastmod>2018-12-19T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -245,17 +315,15 @@
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/authors/admin/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>https://blairbilodeau.github.io/current/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://blairbilodeau.github.io/tags/research/</loc>
-      <lastmod>2019-02-12T00:00:00-05:00</lastmod>
+      <loc>https://blairbilodeau.github.io/authors/admin/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

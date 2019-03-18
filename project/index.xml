@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Blair Bilodeau</title>
+    <title>Side Projects on Blair Bilodeau</title>
     <link>https://blairbilodeau.github.io/project/</link>
-    <description>Recent content in Projects on Blair Bilodeau</description>
+    <description>Recent content in Side Projects on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>External Project</title>
-      <link>https://blairbilodeau.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <title>An analysis of spatial crime data in Chicago</title>
+      <link>https://blairbilodeau.github.io/project/chicago/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://blairbilodeau.github.io/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>https://blairbilodeau.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/project/internal-project/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <guid>https://blairbilodeau.github.io/project/chicago/</guid>
+      <description>Introduction This work is adapted from my final project for STA2101 (Applied Statistics I) taken with Prof. Jerry Brunner. All the code and data is available on my Github.
+For this project I chose the option of analyzing some interesting data with Python. Using 3 datasets available from Kaggle, I investigated crime in Chicago from 2012 to 2016. The main goal of this is to explore data analysis in Python, specifically spatial plotting and multinomial logistic regression for determining relationships between crimes and the explanatory variables.</description>
     </item>
     
   </channel>

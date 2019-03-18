@@ -7,20 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 17 Aug 2018 10:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example Talk</title>
-      <link>https://blairbilodeau.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 -0400</pubDate>
+      <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
+      <link>https://blairbilodeau.github.io/talk/canqueue/</link>
+      <pubDate>Fri, 17 Aug 2018 10:00:00 -0400</pubDate>
       
-      <guid>https://blairbilodeau.github.io/talk/example/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
-  Slides can be added in a few ways:
- Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+      <guid>https://blairbilodeau.github.io/talk/canqueue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
+      <link>https://blairbilodeau.github.io/talk/orahs/</link>
+      <pubDate>Thu, 02 Aug 2018 15:30:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/talk/orahs/</guid>
+      <description></description>
     </item>
     
   </channel>

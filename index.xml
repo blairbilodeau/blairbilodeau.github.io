@@ -11,49 +11,21 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
-      <link>https://blairbilodeau.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 -0400</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Bayesian approach to online learning with expert advice</title>
-      <link>https://blairbilodeau.github.io/research/online-learning/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/research/online-learning/</guid>
-      <description>&lt;p&gt;This is the first research project associated with my PhD. We are interested in the problem of making predictions in an online learning environment with expert advice with prior distributions on the performance of the experts.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
       <link>https://blairbilodeau.github.io/publication/colocation/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
-      <description>&lt;p&gt;For my first undergraduate student research award, I built a simulation of patient flow through the internal medicine ward at London&amp;rsquo;s university hospital. We have resubmitted a manuscript to INFOR on February 12, 2019 for a minor revision. I presented this work at ORAHS in Oslo, Norway and CanQueue in Edmonton, Canada during the summer of 2018.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakening distributional assumptions related to binary prediction</title>
+      <link>https://blairbilodeau.github.io/publication/online-learning/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/online-learning/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -121,21 +93,74 @@ rm Untitled.md
     
     <item>
       <title>Average waiting time for high priority customers in the M/G/1 accumulating priority queue</title>
-      <link>https://blairbilodeau.github.io/research/avg-wait/</link>
+      <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://blairbilodeau.github.io/research/avg-wait/</guid>
-      <description>&lt;p&gt;I completed the bulk of this work during my NSERC USRA in summer 2018. We are building on Stanford et. al.&amp;rsquo;s previous results involving the accumulating priority queue. Our current goal is to characterize the average waiting time for high priority customers.&lt;/p&gt;
-</description>
+      <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Probability distribution for accumulated priority of high priority customers in the M/M/1 accumulating priorty queue</title>
-      <link>https://blairbilodeau.github.io/research/priority-dist/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      <title>An analysis of spatial crime data in Chicago</title>
+      <link>https://blairbilodeau.github.io/project/chicago/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://blairbilodeau.github.io/research/priority-dist/</guid>
-      <description>&lt;p&gt;I completed the bulk of this work during my NSERC USRA in summer 2018. We are building on Stanford et. al.&amp;rsquo;s previous results involving the accumulating priority queue. Our current goal is to characterize the average waiting time for high priority customers.&lt;/p&gt;
+      <guid>https://blairbilodeau.github.io/project/chicago/</guid>
+      <description>
+
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;This work is adapted from my final project for STA2101 (Applied Statistics I) taken with Prof. Jerry Brunner. All the code and data is available on my Github.&lt;/p&gt;
+
+&lt;p&gt;For this project I chose the option of analyzing some interesting data with Python. Using 3 datasets available from Kaggle, I investigated crime in Chicago from 2012 to 2016. The main goal of this is to explore data analysis in Python, specifically spatial plotting and multinomial logistic regression for determining relationships between crimes and the explanatory variables. Some questions I address are where crime occurs, what type of crime occurs, how crime in the area influences school quality, and how police station locations are related to crime hotspots.&lt;/p&gt;
+
+&lt;p&gt;The primary dataset used is &lt;a href=&#34;https://www.kaggle.com/currie32/crimes-in-chicago#Chicago_Crimes_2012_to_2017.csv&#34; target=&#34;_blank&#34;&gt;crimes&lt;/a&gt;, which contains all reported incidents of crime in Chicago from 2012 to 2016. To supplement this, there is schools, which contains the progress report card of each public Chicago high school from the 2013-14 school year, and &lt;a href=&#34;https://www.kaggle.com/chicago/chicago-police-stations#police-stations.csv&#34; target=&#34;_blank&#34;&gt;police&lt;/a&gt;, which contains location info for all Chicago police stations. These datasets have many fields, so I will only mention the critical ones that are used in a model.
+First, I import the libraries I will require.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import numpy as np 
+import pandas as pd 
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+import statsmodels.api as sm
+from scipy.stats import chi2
+from scipy.stats import norm
+from scipy.special import logsumexp
+from colour import Color
+from random import choice
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;crime-severity&#34;&gt;Crime Severity&lt;/h1&gt;
+
+&lt;p&gt;The initial crimes file contains 1,456,714 rows, where each row corresponds to a crime being reported, but I removed 37,174 of these for missing location data. I also excluded crimes from 2017 since there were only 30, so it was logical to just consider years which were fully reported. The field crimes[Primary Type] details the main reason for a crime being reported, and I cleaned this up by removing some white space and grouping types such as “NARCOTICS” and “OTHER NARCOTIC VIOLATION”. I split crimes[Date] into three fields for day, month, and year, and then dropped some redundant fields. A field that may have been useful is crimes[Description], which contains a sentence describing the crime in more depth, but I decided there was too much variability in them to be practical for this analysis.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;## Crimes Data Exploration
+
+# We have 1 456 714 rows total
+crimes = crimes[pd.notnull(crimes[&#39;X Coordinate&#39;])] # 37 083 have NaN for location
+crimes = crimes[crimes[&#39;X Coordinate&#39;] &amp;gt; 0] # 77 have 0 for location
+crimes = crimes[pd.notnull(crimes.Ward)] # 14 have NaN for ward
+crimes = crimes[pd.notnull(crimes.District)] # 1 have NaN for district
+crimes = crimes[pd.notnull(crimes[&#39;Community Area&#39;])] # 22 have NaN for district
+crimes = crimes[crimes.Year &amp;lt; 2017] # Only 30 crimes in 2017
+
+# Clean up primary types
+crimes = crimes.replace({&#39;Primary Type&#39;:[&#39;NON - CRIMINAL&#39;, &#39;NON-CRIMINAL (SUBJECT SPECIFIED)&#39;]}, {&#39;Primary Type&#39;:&#39;NON-CRIMINAL&#39;})
+crimes = crimes.replace({&#39;Primary Type&#39;:&#39;OTHER NARCOTIC VIOLATION&#39;}, {&#39;Primary Type&#39;:&#39;NARCOTICS&#39;})
+crimes = crimes.replace({&#39;Primary Type&#39;:&#39;CONCEALED CARRY LICENSE VIOLATION&#39;}, {&#39;Primary Type&#39;:&#39;WEAPONS VIOLATION&#39;})
+
+# Time of event fields
+crimes[&#39;Month&#39;] = [int(date[0:2]) for date in crimes.Date]
+crimes[&#39;Day&#39;] = [int(date[3:5]) for date in crimes.Date]
+crimes[&#39;Year&#39;] = [int(date[6:10]) for date in crimes.Date] 
+
+# Convert boolean to integer
+crimes.Arrest = crimes.Arrest.astype(int)
+crimes.Domestic = crimes.Domestic.astype(int)
+
+# Lots of columns we don&#39;t care about
+crimes.drop([&#39;Unnamed: 0&#39;, &#39;Date&#39;, &#39;ID&#39;, &#39;Case Number&#39;, &#39;IUCR&#39;, &#39;Description&#39;, &#39;Location&#39;, 
+	&#39;Location Description&#39;, &#39;Updated On&#39;, &#39;Block&#39;, &#39;FBI Code&#39;], axis=1, inplace=True)
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -157,6 +182,33 @@ rm Untitled.md
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
+      <link>https://blairbilodeau.github.io/talk/canqueue/</link>
+      <pubDate>Fri, 17 Aug 2018 10:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/talk/canqueue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability distribution for accumulated priority of high priority customers in the M/M/1 accumulating priority queue</title>
+      <link>https://blairbilodeau.github.io/publication/priority-dist/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/priority-dist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
+      <link>https://blairbilodeau.github.io/talk/orahs/</link>
+      <pubDate>Thu, 02 Aug 2018 15:30:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/talk/orahs/</guid>
+      <description></description>
     </item>
     
     <item>

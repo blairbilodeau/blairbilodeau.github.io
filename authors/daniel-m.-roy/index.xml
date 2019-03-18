@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel M. Roy on Blair Bilodeau</title>
+    <link>https://blairbilodeau.github.io/authors/daniel-m.-roy/</link>
+    <description>Recent content in Daniel M. Roy on Blair Bilodeau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://blairbilodeau.github.io/authors/daniel-m.-roy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weakening distributional assumptions related to binary prediction</title>
+      <link>https://blairbilodeau.github.io/publication/online-learning/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/online-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -18,7 +18,34 @@
       <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
-      <description>For my first undergraduate student research award, I built a simulation of patient flow through the internal medicine ward at London&amp;rsquo;s university hospital. We have resubmitted a manuscript to INFOR on February 12, 2019 for a minor revision. I presented this work at ORAHS in Oslo, Norway and CanQueue in Edmonton, Canada during the summer of 2018.</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakening distributional assumptions related to binary prediction</title>
+      <link>https://blairbilodeau.github.io/publication/online-learning/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/online-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Average waiting time for high priority customers in the M/G/1 accumulating priority queue</title>
+      <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability distribution for accumulated priority of high priority customers in the M/M/1 accumulating priority queue</title>
+      <link>https://blairbilodeau.github.io/publication/priority-dist/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/priority-dist/</guid>
+      <description></description>
     </item>
     
   </channel>
