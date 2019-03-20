@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Average waiting time for high priority customers in the M/G/1 accumulating priority queue</title>
+      <title>Average waiting time for high priority customers in the M/G/1 affine accumulating priority queue</title>
       <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
