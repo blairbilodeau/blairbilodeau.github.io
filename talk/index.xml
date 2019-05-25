@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
-    <lastBuildDate>Tue, 28 May 2019 10:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 13:45:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>The average waiting time for both classes in a delayed accumulating priority queue</title>
       <link>https://blairbilodeau.github.io/talk/cors19/</link>
-      <pubDate>Tue, 28 May 2019 10:00:00 -0400</pubDate>
+      <pubDate>Mon, 27 May 2019 13:45:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/talk/cors19/</guid>
       <description></description>
