@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Data-dependent online learning regret bounds</title>
+      <link>https://blairbilodeau.github.io/publication/online-learning/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/online-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
       <link>https://blairbilodeau.github.io/publication/colocation/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
@@ -22,16 +31,7 @@
     </item>
     
     <item>
-      <title>Weakening distributional assumptions related to binary prediction</title>
-      <link>https://blairbilodeau.github.io/publication/online-learning/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/online-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Average waiting time for high priority customers in the M/G/1 affine accumulating priority queue</title>
+      <title>Average waiting time for both customer classes in the M/G/1 delayed accumulating priority queue</title>
       <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
