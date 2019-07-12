@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Experience</title>
+      <link>https://blairbilodeau.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://blairbilodeau.github.io/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -76,15 +85,6 @@
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>https://blairbilodeau.github.io/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/home/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Side Projects</title>
       <link>https://blairbilodeau.github.io/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -100,6 +100,16 @@
       
       <guid>https://blairbilodeau.github.io/home/accomplishments/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>https://blairbilodeau.github.io/home/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/home/consulting/</guid>
+      <description>If you have a problem to solve or just an idea that you think is interesting, please send me an email with the details. Particularly if the problem is related to fundamental machine learning, I&amp;rsquo;d be eager to collaborate on a project.
+I also do more formal consulting for traditional statistics problems such as model fitting, inference, and interpretation. Some consulting projects I&amp;rsquo;ve worked on in the past involved identifying distributional differences between training and testing data, predicting travel preferences for app users, and modelling residential real estate prices.</description>
     </item>
     
     <item>

@@ -24,7 +24,7 @@
 
 html {
   font-family: 'Merriweather', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
@@ -123,14 +123,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: hsl(339, 90%, 68%);
+  color: #1B80CA;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: hsl(339, 90%, 68%);
+  color: #1B80CA;
 }
 
 img,
@@ -386,8 +386,8 @@ small,
 }
 
 .form-control:focus {
-  border-color: hsl(339, 90%, 68%);
-  box-shadow: 0 0 0 .2rem hsl(339, 90%, 78%);
+  border-color: #1B80CA;
+  box-shadow: 0 0 0 .2rem #3363E3;
 }
 
 /*************************************************
@@ -495,7 +495,7 @@ a[data-fancybox] img {
 }
 
 .home-section {
-  background-color: rgb(255, 255, 255);
+  background-color: #EAEAEA;
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
@@ -544,7 +544,7 @@ a[data-fancybox] img {
 }
 
 .home-section:nth-of-type(even) {
-  background-color: rgb(247, 247, 247);
+  background-color: #E4E4E4;
 }
 
 .dark .home-section {
@@ -630,7 +630,7 @@ a[data-fancybox] img {
 }
 
 .wg-hero .btn {
-  color: hsl(339, 90%, 58%);
+  color: #298CE3;
   padding: .6em 2.1em;
 }
 
@@ -691,7 +691,7 @@ a.hero-cta-alt:hover {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: hsl(339, 90%, 68%);
+  color: #1B80CA;
   font-size: 3rem;
   text-align: center;
 }
@@ -1031,7 +1031,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: hsl(339, 90%, 68%);
+  color: #1B80CA;
 }
 
 .middot-divider {
@@ -1284,11 +1284,11 @@ article .article-metadata {
 
 .experience .m-2 .border,
 .experience .col.border-right {
-  border-color: hsl(339, 90%, 68%) !important;
+  border-color: #1B80CA !important;
 }
 
 .experience .m-2 .border.exp-fill {
-  background-color: hsl(339, 90%, 68%) !important;
+  background-color: #1B80CA !important;
 }
 
 /*************************************************
@@ -1613,14 +1613,14 @@ a.badge:hover {
 .tag-cloud a:active,
 .tag-cloud a:focus,
 .tag-cloud a:hover {
-  color: hsl(339, 90%, 58%);
+  color: #298CE3;
   transform: scale(1.2);
 }
 
 .dark .tag-cloud a:active,
 .dark .tag-cloud a:focus,
 .dark .tag-cloud a:hover {
-  color: hsl(339, 90%, 78%);
+  color: #3363E3;
 }
 
 /*************************************************
@@ -1650,13 +1650,13 @@ a.badge:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: hsl(339, 90%, 68%);
-  background: hsl(339, 90%, 68%);
+  border-color: #1B80CA;
+  background: #1B80CA;
 }
 
 .btn-outline-primary {
-  border-color: hsl(339, 90%, 68%);
-  color: hsl(339, 90%, 68%);
+  border-color: #1B80CA;
+  color: #1B80CA;
 }
 
 .btn-primary:hover,
@@ -1664,7 +1664,7 @@ a.badge:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: hsl(339, 90%, 68%);
+  background: #1B80CA;
 }
 
 .btn-outline-light:hover,
@@ -1677,8 +1677,8 @@ a.badge:hover {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: hsl(339, 90%, 68%);
-  border-color: hsl(339, 90%, 68%);
+  background-color: #1B80CA;
+  border-color: #1B80CA;
 }
 
 .dark .btn-outline-primary:not(:disabled):not(.disabled).active,
@@ -1689,8 +1689,8 @@ a.badge:hover {
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: hsl(339, 90%, 68%);
-  border-color: hsl(339, 90%, 68%);
+  background-color: #1B80CA;
+  border-color: #1B80CA;
 }
 
 .dark .btn-outline-primary:hover {
@@ -1717,18 +1717,18 @@ a.badge:hover {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: hsl(339, 90%, 78%) !important;
+  background-color: #3363E3 !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: hsl(339, 90%, 58%) !important;
+  background-color: #298CE3 !important;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 .2rem hsl(339, 90%, 78%);
+  box-shadow: 0 0 0 .2rem #3363E3;
 }
 
 /*************************************************
@@ -1740,7 +1740,7 @@ a.badge:hover {
 }
 
 .navbar-light {
-  background: rgb(20, 22, 34) !important;
+  background: #B4B4B4 !important;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1749,7 +1749,7 @@ a.badge:hover {
 }
 
 .navbar-toggler {
-  color: rgba(255,255,255,0.6) !important;
+  color: #023867 !important;
 }
 
 .navbar-light .navbar-toggler:focus,
@@ -1759,7 +1759,7 @@ a.badge:hover {
 
 .dropdown-menu,
 nav#navbar-main li.nav-item {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link,
@@ -1768,24 +1768,24 @@ nav#navbar-main li.nav-item {
   white-space: nowrap;
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: rgba(255,255,255,0.6);
+  color: #023867;
   font-weight: 600;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
-  color: rgba(255,255,255,0.6);
+  color: #023867;
   background-color: transparent;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: rgba(255,255,255,1);
+  color: #006FD1;
   background-color: transparent;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-  color: rgba(255,255,255,1);
+  color: #006FD1;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -1803,11 +1803,11 @@ nav#navbar-main li.nav-item {
 }
 
 .navbar-light .navbar-toggler .icon-bar {
-  background-color: rgba(255,255,255,0.6) !important;
+  background-color: #023867 !important;
 }
 
 .dropdown-menu {
-  background-color: rgb(20, 22, 34) !important;
+  background-color: #B4B4B4 !important;
 }
 
 .dropdown-menu > li > a {
@@ -1816,23 +1816,23 @@ nav#navbar-main li.nav-item {
   clear: both;
   font-weight: 400;
   line-height: 1.42857143;
-  color: rgba(255,255,255,0.6);
+  color: #023867;
   white-space: nowrap;
 }
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-  color: rgba(255,255,255,1);
+  color: #006FD1;
   text-decoration: none;
-  background-color: rgb(20, 22, 34);
+  background-color: #B4B4B4;
 }
 
 .dropdown-menu > .active,
 .dropdown-menu > .active:focus,
 .dropdown-menu > .active:hover {
-  color: rgb(20, 22, 34);
+  color: #B4B4B4;
   text-decoration: none;
-  background-color: rgba(255,255,255,1);
+  background-color: #006FD1;
   outline: 0;
 }
 
@@ -1840,19 +1840,19 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>.open>a:focus,
 .navbar-light .navbar-nav>.open>a:hover,
 .navbar-light .navbar-nav>.open>a:visited {
-  color: rgba(255,255,255,0.6) !important;
-  background-color: rgb(20, 22, 34) !important;
+  color: #023867 !important;
+  background-color: #B4B4B4 !important;
 }
 
 .navbar-light .navbar-brand {
   font-weight: bold;
   font-size: 1.2em;
-  color: #fff;
+  color: #1B1B1B;
 }
 
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
-  color: #fff;
+  color: #1B1B1B;
   background-color: transparent;
 }
 
@@ -1894,7 +1894,7 @@ nav#navbar-main li.nav-item {
     clear: both;
     font-weight: 400;
     line-height: 1.42857143;
-    color: rgba(255,255,255,0.6);
+    color: #023867;
     white-space: nowrap;
   }
 
@@ -1910,7 +1910,7 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu > li > a {
     padding: 5px 15px 5px 25px;
     line-height: 20px;
-    color: rgba(255,255,255,0.6);
+    color: #023867;
   }
 
   .navbar-light .navbar-nav .open .dropdown-menu > li > a:focus,
@@ -1922,7 +1922,7 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
-    color: rgba(255,255,255,1);
+    color: #006FD1;
     background-color: transparent;
   }
 
@@ -2094,8 +2094,8 @@ div.alert a {
 }
 
 .docs-search .form-control:focus {
-  border-color: hsl(339, 90%, 68%);
-  box-shadow: 0 0 0 3px hsl(339, 90%, 78%);
+  border-color: #1B80CA;
+  box-shadow: 0 0 0 3px #3363E3;
 }
 
 /* Docs sidebar. */
@@ -2160,7 +2160,7 @@ div.alert a {
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: hsl(339, 90%, 68%);
+  color: #1B80CA;
   background-color: transparent;
 }
 
@@ -2169,7 +2169,7 @@ div.alert a {
 .docs-toggle {
   line-height: 1;
   font-size: 1.2rem;
-  color: hsl(339, 90%, 68%);
+  color: #1B80CA;
   background-color: transparent;
 }
 
@@ -2286,7 +2286,7 @@ ul.toc-top {
 
 #TableOfContents li a:hover,
 .toc-top li a:hover {
-  color: hsl(339, 90%, 68%);
+  color: #1B80CA;
   text-decoration: none;
 }
 
@@ -2294,12 +2294,12 @@ ul.toc-top {
 
 .anchorjs-link {
   font-weight: 400;
-  color: hsl(339, 90%, 58%);
+  color: #298CE3;
   transition: color .16s linear;
 }
 
 .anchorjs-link:hover {
-  color: hsl(339, 90%, 68%);
+  color: #1B80CA;
   text-decoration: none;
 }
 
@@ -2324,8 +2324,8 @@ body.dark,
 
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
-  border-color: hsl(339, 90%, 68%);
-  box-shadow: 0 0 0 .2rem hsl(339, 90%, 58%);
+  border-color: #1B80CA;
+  box-shadow: 0 0 0 .2rem #298CE3;
 }
 
 .dark h1,
@@ -2357,7 +2357,7 @@ body.dark,
 }
 
 .dark ul.share li a {
-  background-color: hsl(339, 90%, 68%);
+  background-color: #1B80CA;
 }
 
 .dark table table {
@@ -2410,7 +2410,7 @@ body.dark,
 }
 
 .dark .card h4 a {
-  color: hsl(339, 90%, 68%);
+  color: #1B80CA;
   border-bottom: solid 1px transparent;
 }
 
