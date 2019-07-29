@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
-    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>An analysis of spatial crime data in Chicago</title>
       <link>https://blairbilodeau.github.io/project/chicago/</link>
-      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/project/chicago/</guid>
       <description>Introduction This work is adapted from my final project for STA2101 (Applied Statistics I) taken with Prof. Jerry Brunner. All the code and data is available on my Github.

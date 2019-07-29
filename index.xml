@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
-    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 -0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The average waiting time for both classes in a delayed accumulating priority queue</title>
       <link>https://blairbilodeau.github.io/talk/cors19/</link>
-      <pubDate>Mon, 27 May 2019 13:45:00 -0400</pubDate>
+      <pubDate>Mon, 27 May 2019 13:45:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/talk/cors19/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Data-dependent online learning regret bounds</title>
       <link>https://blairbilodeau.github.io/publication/online-learning/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/online-learning/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
       <link>https://blairbilodeau.github.io/publication/colocation/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
       <description></description>
@@ -103,7 +103,7 @@ rm Untitled.md
     <item>
       <title>Average waiting time for both customer classes in the M/G/1 delayed accumulating priority queue</title>
       <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
       <description></description>
@@ -112,7 +112,7 @@ rm Untitled.md
     <item>
       <title>An analysis of spatial crime data in Chicago</title>
       <link>https://blairbilodeau.github.io/project/chicago/</link>
-      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/project/chicago/</guid>
       <description>
@@ -176,7 +176,7 @@ crimes.drop([&#39;Unnamed: 0&#39;, &#39;Date&#39;, &#39;ID&#39;, &#39;Case Numbe
     <item>
       <title>Example Page</title>
       <link>https://blairbilodeau.github.io/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/tutorial/example/</guid>
       <description>
@@ -196,7 +196,7 @@ crimes.drop([&#39;Unnamed: 0&#39;, &#39;Date&#39;, &#39;ID&#39;, &#39;Case Numbe
     <item>
       <title>Probability distribution for bivariate process in the M/M/1 accumulating priority queue</title>
       <link>https://blairbilodeau.github.io/publication/priority-dist/</link>
-      <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/priority-dist/</guid>
       <description></description>
@@ -205,7 +205,7 @@ crimes.drop([&#39;Unnamed: 0&#39;, &#39;Date&#39;, &#39;ID&#39;, &#39;Case Numbe
     <item>
       <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
       <link>https://blairbilodeau.github.io/talk/orahs18/</link>
-      <pubDate>Thu, 02 Aug 2018 15:30:00 -0400</pubDate>
+      <pubDate>Thu, 02 Aug 2018 15:30:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/talk/orahs18/</guid>
       <description></description>
@@ -214,7 +214,7 @@ crimes.drop([&#39;Unnamed: 0&#39;, &#39;Date&#39;, &#39;ID&#39;, &#39;Case Numbe
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://blairbilodeau.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/post/getting-started/</guid>
       <description>
