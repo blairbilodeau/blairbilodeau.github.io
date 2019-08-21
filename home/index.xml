@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
-    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -51,7 +51,7 @@
     <item>
       <title>CV</title>
       <link>https://blairbilodeau.github.io/home/cv/</link>
-      <pubDate>Wed, 06 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/home/cv/</guid>
       <description>To view my CV, click here.</description>
