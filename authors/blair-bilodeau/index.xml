@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blair Bilodeau</title>
+    <link>https://blairbilodeau.github.io/authors/blair-bilodeau/</link>
+    <description>Recent content on Blair Bilodeau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://blairbilodeau.github.io/authors/blair-bilodeau/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The average waiting time for both classes in a delayed accumulating priority queue</title>
+      <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
+      <link>https://blairbilodeau.github.io/publication/colocation/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An analysis of spatial crime data in Chicago</title>
+      <link>https://blairbilodeau.github.io/project/chicago/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/project/chicago/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
