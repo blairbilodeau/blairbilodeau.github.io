@@ -11,7 +11,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The average waiting time for both classes in a delayed accumulating priority queue</title>
+      <title>Average waiting times in the two-class M/G/1 Delayed Accumulating Priority Queue</title>
       <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
       
