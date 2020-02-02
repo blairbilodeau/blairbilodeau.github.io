@@ -6,7 +6,7 @@
     <description>Recent content in admin on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
+    <copyright>&amp;copy; Blair Bilodeau 2020</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
@@ -40,8 +40,8 @@ Follow our easy step by step guide to learn how to build your own free website w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://blairbilodeau.github.io/author/admin/</guid>
-      <description>I&amp;rsquo;m a PhD candidate in statistics advised by Daniel Roy at the University of Toronto and the Vector Institute. From January to March 2020 I will be visiting the Institute for Advanced Study in Princeton as part of their Special Year on Optimization, Statistics, and Theoretical Machine Learning.
-My research area is broadly theoretical machine learning, where I work on generalization error, online learning theory, and statistical complexity. Recently, I&amp;rsquo;ve been trying to derive online regret bounds that are adaptable to adversarial and benign situations for non-Lipschitz loss.</description>
+      <description>I&amp;rsquo;m a PhD candidate in statistics advised by Daniel Roy at the University of Toronto and the Vector Institute, and am supported by an NSERC Doctoral Canada Graduate Scholarship. From January to March 2020 I will be visiting the Institute for Advanced Study in Princeton as part of their Special Year on Optimization, Statistics, and Theoretical Machine Learning.
+My research area is broadly theoretical machine learning, where I work on generalization error, online learning theory, and statistical complexity.</description>
     </item>
     
   </channel>
