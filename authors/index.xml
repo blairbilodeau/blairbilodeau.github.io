@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2020</copyright>
-    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Andrew Appleton</title>
       <link>https://blairbilodeau.github.io/authors/andrew-appleton/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/andrew-appleton/</guid>
       <description></description>
@@ -24,25 +24,43 @@
     <item>
       <title>Blair Bilodeau</title>
       <link>https://blairbilodeau.github.io/authors/blair-bilodeau/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/blair-bilodeau/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Daniel M. Roy</title>
+      <link>https://blairbilodeau.github.io/authors/daniel-m.-roy/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/authors/daniel-m.-roy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>David A. Stanford</title>
       <link>https://blairbilodeau.github.io/authors/david-a.-stanford/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/david-a.-stanford/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Dylan J. Foster</title>
+      <link>https://blairbilodeau.github.io/authors/dylan-j.-foster/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/authors/dylan-j.-foster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mark Goldszmidt</title>
       <link>https://blairbilodeau.github.io/authors/mark-goldszmidt/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/mark-goldszmidt/</guid>
       <description></description>

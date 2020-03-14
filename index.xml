@@ -11,9 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Average waiting times in the two-class M/G/1 Delayed Accumulating Priority Queue</title>
+      <title>Improved bounds on minimax regret under logarithmic loss via self-concordance</title>
+      <link>https://blairbilodeau.github.io/future-publication/minimax-logloss/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/future-publication/minimax-logloss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Average waiting times in the two-class M/G/1 delayed accumulating priority queue</title>
       <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
       <description></description>
@@ -31,7 +40,7 @@
     <item>
       <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
       <link>https://blairbilodeau.github.io/publication/colocation/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
       <description></description>
