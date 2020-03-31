@@ -41,7 +41,7 @@ Follow our easy step by step guide to learn how to build your own free website w
       
       <guid>https://blairbilodeau.github.io/author/admin/</guid>
       <description>I&amp;rsquo;m a PhD candidate in statistics advised by Daniel Roy at the University of Toronto and the Vector Institute, and am supported by an NSERC Doctoral Canada Graduate Scholarship.
-My research area is broadly theoretical machine learning, where I work on generalization error, online learning theory, and statistical complexity. I believe that the large gap between theory and practice in machine learning must be closed to improve the reliability and interpretability of modern algorithms, which is crucial to deploying them for decisions where human lives are at stake.</description>
+My research area is broadly theoretical machine learning, where I work on generalization error, online learning theory, and statistical complexity. I believe it is crucial to close the gap between theory and practice for modern machine learning algorithms, particularly to improve the reliability and interpretability of algorithms when deploying them for decisions where human lives are at stake.</description>
     </item>
     
   </channel>
