@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A web scraper to search arXiv and biorXiv</title>
+      <link>https://blairbilodeau.github.io/project/arxiv-biorxiv/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/project/arxiv-biorxiv/</guid>
+      <description>&lt;p&gt;Python script to facilitate easy automatic pulling of new papers from Arxiv, Biorxiv, and Medrxiv with custom search features.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Improved bounds on minimax regret under logarithmic loss via self-concordance</title>
       <link>https://blairbilodeau.github.io/publication/minimax-logloss/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
@@ -44,6 +54,16 @@
       
       <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial analysis examples</title>
+      <link>https://blairbilodeau.github.io/project/spatial/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/project/spatial/</guid>
+      <description>&lt;p&gt;Homework for STA2201: Methods of Applied Statistics II at the University of Toronto.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -115,7 +135,8 @@ rm Untitled.md
       <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/project/chicago/</guid>
-      <description></description>
+      <description>&lt;p&gt;Final report for STA2101: Methods of Applied Statistics I at the University of Toronto.&lt;/p&gt;
+</description>
     </item>
     
     <item>

@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2020</copyright>
-    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A web scraper to search arXiv and biorXiv</title>
+      <link>https://blairbilodeau.github.io/project/arxiv-biorxiv/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/project/arxiv-biorxiv/</guid>
+      <description>Python script to facilitate easy automatic pulling of new papers from Arxiv, Biorxiv, and Medrxiv with custom search features.</description>
+    </item>
+    
+    <item>
+      <title>Spatial analysis examples</title>
+      <link>https://blairbilodeau.github.io/project/spatial/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/project/spatial/</guid>
+      <description>Homework for STA2201: Methods of Applied Statistics II at the University of Toronto.</description>
+    </item>
     
     <item>
       <title>An analysis of spatial crime data in Chicago</title>
@@ -18,7 +36,7 @@
       <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/project/chicago/</guid>
-      <description></description>
+      <description>Final report for STA2101: Methods of Applied Statistics I at the University of Toronto.</description>
     </item>
     
   </channel>
