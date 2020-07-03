@@ -6,19 +6,19 @@
     <description>Recent content in 1 on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Blair Bilodeau 2019</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 -0400</lastBuildDate>
+    <copyright>&amp;copy; Blair Bilodeau 2020</copyright>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://blairbilodeau.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <title>Improved bounds on minimax regret under logarithmic loss via self-concordance</title>
+      <link>https://blairbilodeau.github.io/publication/minimax-logloss/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://blairbilodeau.github.io/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>https://blairbilodeau.github.io/publication/minimax-logloss/</guid>
+      <description></description>
     </item>
     
   </channel>

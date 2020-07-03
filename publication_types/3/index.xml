@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2020</copyright>
-    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Improved bounds on minimax regret under logarithmic loss via self-concordance</title>
-      <link>https://blairbilodeau.github.io/publication/minimax-logloss/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/minimax-logloss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Average waiting times in the two-class M/G/1 delayed accumulating priority queue</title>
       <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
       <description></description>
