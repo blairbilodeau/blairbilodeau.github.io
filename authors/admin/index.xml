@@ -6,7 +6,7 @@
     <description>Recent content in admin on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Blair Bilodeau 2020</copyright>
+    <copyright>&amp;copy; Blair Bilodeau 2021</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
@@ -41,7 +41,7 @@ Follow our easy step by step guide to learn how to build your own free website w
       
       <guid>https://blairbilodeau.github.io/author/admin/</guid>
       <description>I&amp;rsquo;m a PhD candidate in statistics advised by Daniel Roy at the University of Toronto, supported by the Vector Institute and an NSERC Doctoral Canada Graduate Scholarship. I received my BSc in financial mathematics from Western University in 2018.
-My research area is broadly statistical machine learning, with a focus on theoretical performance guarantees for various sequential prediction settings. Some problems I&amp;rsquo;m currently thinking about are:
+My research area is broadly statistical machine learning, with a focus on theoretical performance guarantees for sequential decision making. Some problems I&amp;rsquo;m currently thinking about are:
 Adaptivity: How can we characterize the difficulty of learning data beyond classical stationary dependence structures and design algorithms that adapt to these difficulty notions?</description>
     </item>
     

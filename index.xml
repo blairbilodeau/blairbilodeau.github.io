@@ -6,12 +6,12 @@
     <description>Recent content in Blair Bilodeau on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Blair Bilodeau 2020</copyright>
+    <copyright>&amp;copy; Blair Bilodeau 2021</copyright>
     <lastBuildDate>Wed, 06 Mar 2019 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Relaxing the i.i.d. assumption: Adaptive minimax optimal sequential prediction with expert advice</title>
+      <title>Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization</title>
       <link>https://blairbilodeau.github.io/publication/semi-adv/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 -0400</pubDate>
       
@@ -20,12 +20,12 @@
     </item>
     
     <item>
-      <title>Undergraduate Probability Theory Course Notes</title>
-      <link>https://blairbilodeau.github.io/project/sta347/</link>
+      <title>STA347: Probability Theory</title>
+      <link>https://blairbilodeau.github.io/teaching/sta347/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://blairbilodeau.github.io/project/sta347/</guid>
-      <description>&lt;p&gt;Course notes I made for teaching STA347: Probability Theory at the University of Toronto in Summer 2020.&lt;/p&gt;
+      <guid>https://blairbilodeau.github.io/teaching/sta347/</guid>
+      <description>&lt;p&gt;Course notes I made for teaching STA347: Probability Theory at the University of Toronto.&lt;/p&gt;
 </description>
     </item>
     
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>Tight bounds on minimax regret under logarithmic loss via self-concordance</title>
+      <title>Tight Bounds on Minimax Regret Under Logarithmic Loss via Self-Concordance</title>
       <link>https://blairbilodeau.github.io/publication/minimax-logloss/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
       
@@ -49,7 +49,7 @@
     </item>
     
     <item>
-      <title>Average waiting times in the two-class M/G/1 delayed accumulating priority queue</title>
+      <title>Average Waiting Times in the Two-Class M/G/1 Delayed Accumulating Priority Queue</title>
       <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
       
@@ -67,7 +67,7 @@
     </item>
     
     <item>
-      <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
+      <title>Simulated Co-location of Patients Admitted to an Inpatient Internal Medicine Teaching Unit: Potential Impacts on Efficiency and Physician-Nurse Collaboration</title>
       <link>https://blairbilodeau.github.io/publication/colocation/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
@@ -76,7 +76,7 @@
     </item>
     
     <item>
-      <title>Spatial Analysis Examples</title>
+      <title>STA2201 Homework 3: Spatial Analysis Examples</title>
       <link>https://blairbilodeau.github.io/project/spatial/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
@@ -149,32 +149,12 @@ rm Untitled.md
     </item>
     
     <item>
-      <title>Spatial Analysis of Crime in Chicago</title>
+      <title>STA2101 Final Project: Spatial Analysis of Crime in Chicago</title>
       <link>https://blairbilodeau.github.io/project/chicago/</link>
       <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/project/chicago/</guid>
       <description>&lt;p&gt;Final report for STA2101: Methods of Applied Statistics I at the University of Toronto.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Page</title>
-      <link>https://blairbilodeau.github.io/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/tutorial/example/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

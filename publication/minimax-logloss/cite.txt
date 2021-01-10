@@ -1,0 +1,6 @@
+@inproceedings{bilodeau20logloss,
+  author = {{Bilodeau}, Blair and {Foster}, Dylan J. and {Roy}, Daniel M.},
+  title = "{Tight Bounds on Minimax Regret under Logarithmic Loss via Self-Concordance}",
+  year = {2020},
+  booktitle = {Proceedings of the 37th International Conference on Machine Learning},
+}

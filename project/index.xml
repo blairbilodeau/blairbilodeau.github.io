@@ -6,20 +6,11 @@
     <description>Recent content in Projects on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Blair Bilodeau 2020</copyright>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 -0400</lastBuildDate>
+    <copyright>&amp;copy; Blair Bilodeau 2021</copyright>
+    <lastBuildDate>Sat, 23 May 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Undergraduate Probability Theory Course Notes</title>
-      <link>https://blairbilodeau.github.io/project/sta347/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/project/sta347/</guid>
-      <description>Course notes I made for teaching STA347: Probability Theory at the University of Toronto in Summer 2020.</description>
-    </item>
     
     <item>
       <title>Scripts to Scrape Data from arXiv and biorXiv</title>
@@ -31,7 +22,7 @@
     </item>
     
     <item>
-      <title>Spatial Analysis Examples</title>
+      <title>STA2201 Homework 3: Spatial Analysis Examples</title>
       <link>https://blairbilodeau.github.io/project/spatial/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
@@ -40,7 +31,7 @@
     </item>
     
     <item>
-      <title>Spatial Analysis of Crime in Chicago</title>
+      <title>STA2101 Final Project: Spatial Analysis of Crime in Chicago</title>
       <link>https://blairbilodeau.github.io/project/chicago/</link>
       <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       

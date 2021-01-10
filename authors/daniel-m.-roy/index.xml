@@ -6,14 +6,14 @@
     <description>Recent content in Daniel M. Roy on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Blair Bilodeau 2020</copyright>
+    <copyright>&amp;copy; Blair Bilodeau 2021</copyright>
     <lastBuildDate>Mon, 13 Jul 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/daniel-m.-roy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Relaxing the i.i.d. assumption: Adaptive minimax optimal sequential prediction with expert advice</title>
+      <title>Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization</title>
       <link>https://blairbilodeau.github.io/publication/semi-adv/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 -0400</pubDate>
       
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Tight bounds on minimax regret under logarithmic loss via self-concordance</title>
+      <title>Tight Bounds on Minimax Regret Under Logarithmic Loss via Self-Concordance</title>
       <link>https://blairbilodeau.github.io/publication/minimax-logloss/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
       

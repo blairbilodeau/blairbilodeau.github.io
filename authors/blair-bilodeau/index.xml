@@ -6,19 +6,19 @@
     <description>Recent content on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Blair Bilodeau 2020</copyright>
+    <copyright>&amp;copy; Blair Bilodeau 2021</copyright>
     <lastBuildDate>Wed, 01 Jul 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/blair-bilodeau/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Undergraduate Probability Theory Course Notes</title>
-      <link>https://blairbilodeau.github.io/project/sta347/</link>
+      <title>STA347: Probability Theory</title>
+      <link>https://blairbilodeau.github.io/teaching/sta347/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://blairbilodeau.github.io/project/sta347/</guid>
-      <description>Course notes I made for teaching STA347: Probability Theory at the University of Toronto in Summer 2020.</description>
+      <guid>https://blairbilodeau.github.io/teaching/sta347/</guid>
+      <description>Course notes I made for teaching STA347: Probability Theory at the University of Toronto.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Tight bounds on minimax regret under logarithmic loss via self-concordance</title>
+      <title>Tight Bounds on Minimax Regret Under Logarithmic Loss via Self-Concordance</title>
       <link>https://blairbilodeau.github.io/publication/minimax-logloss/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
       
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>Average waiting times in the two-class M/G/1 delayed accumulating priority queue</title>
+      <title>Average Waiting Times in the Two-Class M/G/1 Delayed Accumulating Priority Queue</title>
       <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
       
@@ -49,7 +49,7 @@
     </item>
     
     <item>
-      <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
+      <title>Simulated Co-location of Patients Admitted to an Inpatient Internal Medicine Teaching Unit: Potential Impacts on Efficiency and Physician-Nurse Collaboration</title>
       <link>https://blairbilodeau.github.io/publication/colocation/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
@@ -58,7 +58,7 @@
     </item>
     
     <item>
-      <title>Spatial Analysis Examples</title>
+      <title>STA2201 Homework 3: Spatial Analysis Examples</title>
       <link>https://blairbilodeau.github.io/project/spatial/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
       
@@ -67,7 +67,7 @@
     </item>
     
     <item>
-      <title>Spatial Analysis of Crime in Chicago</title>
+      <title>STA2101 Final Project: Spatial Analysis of Crime in Chicago</title>
       <link>https://blairbilodeau.github.io/project/chicago/</link>
       <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
       
