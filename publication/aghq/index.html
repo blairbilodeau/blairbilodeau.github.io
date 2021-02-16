@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Blair Bilodeau, PhD Candidate in Statistics at the University of Toronto">
+  <meta name="description" content="We provide the first stochastic convergence rates for adaptive Gauss-Hermite quadrature applied to normalizing the posterior distribution in Bayesian models. Our results apply to the uniform relative error in the approximate posterior density, the coverage probabilities of approximate credible sets, and approximate moments and quantiles, therefore guaranteeing fast asymptotic convergence of approximate summary statistics used in practice. We demonstrate via simulation a simple model that matches our stochastic upper bound for small sample sizes, and apply the method in two challenging low-dimensional examples. Further, we demonstrate how adaptive quadrature can be used as a crucial component of a complex Bayesian inference procedure for high-dimensional parameters. The method is implemented and made publicly available in the aghq package for the R language.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://blairbilodeau.github.io/authors/blair-bilodeausup/sup/">
+  <link rel="alternate" hreflang="en-us" href="https://blairbilodeau.github.io/publication/aghq/">
 
   
 
@@ -105,15 +105,15 @@
   
 
   
-  <link rel="alternate" href="https://blairbilodeau.github.io/authors/blair-bilodeausup/sup/index.xml" type="application/rss+xml" title="Blair Bilodeau">
-  <link rel="feed" href="https://blairbilodeau.github.io/authors/blair-bilodeausup/sup/index.xml" type="application/rss+xml" title="Blair Bilodeau">
+  <link rel="alternate" href="https://blairbilodeau.github.io/index.xml" type="application/rss+xml" title="Blair Bilodeau">
+  <link rel="feed" href="https://blairbilodeau.github.io/index.xml" type="application/rss+xml" title="Blair Bilodeau">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://blairbilodeau.github.io/authors/blair-bilodeausup/sup/">
+  <link rel="canonical" href="https://blairbilodeau.github.io/publication/aghq/">
 
   
   
@@ -128,19 +128,21 @@
   <meta property="twitter:creator" content="@blairbilodeau">
   
   <meta property="og:site_name" content="Blair Bilodeau">
-  <meta property="og:url" content="https://blairbilodeau.github.io/authors/blair-bilodeausup/sup/">
-  <meta property="og:title" content="Blair Bilodeau&lt;sup&gt;*&lt;/sup&gt; | Blair Bilodeau">
-  <meta property="og:description" content="Blair Bilodeau, PhD Candidate in Statistics at the University of Toronto"><meta property="og:image" content="https://blairbilodeau.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://blairbilodeau.github.io/publication/aghq/">
+  <meta property="og:title" content="Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference. | Blair Bilodeau">
+  <meta property="og:description" content="We provide the first stochastic convergence rates for adaptive Gauss-Hermite quadrature applied to normalizing the posterior distribution in Bayesian models. Our results apply to the uniform relative error in the approximate posterior density, the coverage probabilities of approximate credible sets, and approximate moments and quantiles, therefore guaranteeing fast asymptotic convergence of approximate summary statistics used in practice. We demonstrate via simulation a simple model that matches our stochastic upper bound for small sample sizes, and apply the method in two challenging low-dimensional examples. Further, we demonstrate how adaptive quadrature can be used as a crucial component of a complex Bayesian inference procedure for high-dimensional parameters. The method is implemented and made publicly available in the aghq package for the R language."><meta property="og:image" content="https://blairbilodeau.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2021-02-15T00:00:00-05:00">
+  <meta property="article:published_time" content="2021-02-15T00:00:00-05:00">
+  
+  <meta property="article:modified_time" content="2021-02-15T00:00:00-05:00">
   
 
   
 
   
 
-  <title>Blair Bilodeau&lt;sup&gt;*&lt;/sup&gt; | Blair Bilodeau</title>
+  <title>Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference. | Blair Bilodeau</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -314,42 +316,276 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
 
 
 
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Blair Bilodeau&lt;sup&gt;*&lt;/sup&gt;</h1>
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference.</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2021-02-15 00:00:00 -0500 EST" itemprop="datePublished">
+<meta content="2021-02-15 00:00:00 -0500 EST" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="/authors/blair-bilodeausup/sup/">Blair Bilodeau<sup>*</sup></a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="/authors/alex-stringersup/sup/">Alex Stringer<sup>*</sup></a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="/authors/yanbo-tangsup/sup/">Yanbo Tang<sup>*</sup></a></span></span>
+  
+
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>2021</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+    
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/publication/aghq/cite.txt" >
+    
+    Cite
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2102.06801" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+
 </div>
 
 
-<section id="about" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
     
-    
-    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">We provide the first stochastic convergence rates for adaptive Gauss-Hermite quadrature applied to normalizing the posterior distribution in Bayesian models. Our results apply to the uniform relative error in the approximate posterior density, the coverage probabilities of approximate credible sets, and approximate moments and quantiles, therefore guaranteeing fast asymptotic convergence of approximate summary statistics used in practice. We demonstrate via simulation a simple model that matches our stochastic upper bound for small sample sizes, and apply the method in two challenging low-dimensional examples. Further, we demonstrate how adaptive quadrature can be used as a crucial component of a complex Bayesian inference procedure for high-dimensional parameters. The method is implemented and made publicly available in the aghq package for the R language.</p>
     
 
     
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/aghq/">Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference.</a>
-        </li>
-        
-        <li>
-          <a href="/publication/semi-adv/">Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
-  </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">arXiv Preprint</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+<div class="article-tags">
   
-</section>
+  <a class="badge badge-light" href="/tags/featured/">Featured</a>
+  
+</div>
+
+
+
+    
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
 
 
 <div class="container">

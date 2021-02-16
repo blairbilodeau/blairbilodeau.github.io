@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference.</title>
+      <link>https://blairbilodeau.github.io/publication/aghq/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/aghq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization</title>
       <link>https://blairbilodeau.github.io/publication/semi-adv/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 -0400</pubDate>
