@@ -40,10 +40,10 @@
     
     <item>
       <title>Scripts to Scrape Data from arXiv and biorXiv</title>
-      <link>https://blairbilodeau.github.io/project/arxiv-biorxiv/</link>
+      <link>https://blairbilodeau.github.io/teaching/arxiv-biorxiv/</link>
       <pubDate>Sat, 23 May 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://blairbilodeau.github.io/project/arxiv-biorxiv/</guid>
+      <guid>https://blairbilodeau.github.io/teaching/arxiv-biorxiv/</guid>
       <description>&lt;p&gt;Python script to facilitate easy automatic pulling of new papers from arXiv, biorXiv, and medrXiv with custom search features.&lt;/p&gt;
 </description>
     </item>
@@ -82,16 +82,6 @@
       
       <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>STA2201 Homework 3: Spatial Analysis Examples</title>
-      <link>https://blairbilodeau.github.io/project/spatial/</link>
-      <pubDate>Wed, 10 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/project/spatial/</guid>
-      <description>&lt;p&gt;Homework for STA2201: Methods of Applied Statistics II at the University of Toronto.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -154,16 +144,6 @@ rm Untitled.md
 &lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
 
 &lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>STA2101 Final Project: Spatial Analysis of Crime in Chicago</title>
-      <link>https://blairbilodeau.github.io/project/chicago/</link>
-      <pubDate>Wed, 19 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/project/chicago/</guid>
-      <description>&lt;p&gt;Final report for STA2101: Methods of Applied Statistics I at the University of Toronto.&lt;/p&gt;
 </description>
     </item>
     
