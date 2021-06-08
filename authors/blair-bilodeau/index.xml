@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2021</copyright>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/blair-bilodeau/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Minimax Rates for Conditional Density Estimation via Empirical Entropy</title>
+      <link>https://blairbilodeau.github.io/publication/density-estimation/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/density-estimation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>STA347: Probability Theory</title>

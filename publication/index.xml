@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2021</copyright>
-    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Minimax Rates for Conditional Density Estimation via Empirical Entropy</title>
+      <link>https://blairbilodeau.github.io/publication/density-estimation/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/density-estimation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference</title>
