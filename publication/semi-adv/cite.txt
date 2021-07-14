@@ -1,6 +1,6 @@
 @misc{bilodeau20semiadv,
   author = {{Bilodeau}, Blair and {Negrea}, Jeffrey and {Roy}, Daniel M.},
-  title = "{Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization}",
+  title = {Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization},
   year = {2020},
   note = {arXiv:2007.06552}
 }

@@ -1,6 +1,6 @@
 @misc{bilodeau20apq,
   author = {{Bilodeau}, Blair and {Stanford}, David A.},
-  title = "{Average Waiting Times in the Two-Class M/G/1 Delayed Accumulating Priority Queue}",
+  title = {Average Waiting Times in the Two-Class {M/G/1} Delayed Accumulating Priority Queue},
   year = {2020},
   note = {arXiv:2001.06054},
 }

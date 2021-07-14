@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2021</copyright>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,19 @@
     <item>
       <title>STA347: Probability Theory</title>
       <link>https://blairbilodeau.github.io/teaching/sta347/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/teaching/sta347/</guid>
       <description>Course notes I made for teaching STA347: Probability Theory at the University of Toronto.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Theoretical Statistics Research</title>
+      <link>https://blairbilodeau.github.io/teaching/intro-theory/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/teaching/intro-theory/</guid>
+      <description>Python script to facilitate easy automatic pulling of new papers from arXiv, biorXiv, and medrXiv with custom search features.</description>
     </item>
     
     <item>
