@@ -27,7 +27,7 @@
       <pubDate>Sat, 10 Jul 2021 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/teaching/intro-theory/</guid>
-      <description>Python script to facilitate easy automatic pulling of new papers from arXiv, biorXiv, and medrXiv with custom search features.</description>
+      <description>Undergraduate statistics courses focus heavily on how statistics is applied in practice along with theoretical guarantees on how classical methods perform, but often leave undergrads unclear what modern theoretical research looks like, or how to begin doing it themselves. In this seminar, I’ll introduce at a high-level my views on what the key common aspects are of most theoretical statistics results. Topics of discussion include: questions theoreticians aim to answer, impacts of theoretical research on statistical practice, and limitations of current common trends in theoretical statistics.</description>
     </item>
     
     <item>
@@ -58,7 +58,7 @@
     </item>
     
     <item>
-      <title>Average Waiting Times in the Two-Class M/G/1 Delayed Accumulating Priority Queue</title>
+      <title>High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs</title>
       <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
       
