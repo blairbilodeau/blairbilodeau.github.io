@@ -2,5 +2,5 @@
   author = {{Bilodeau}, Blair and {Foster}, Dylan J. and {Roy}, Daniel M.},
   title = {Minimax Rates for Conditional Density Estimation via Empirical Entropy},
   year = {2021},
-  note = {In preparation},
+  note = {arXiv:2109.10461},
 }
