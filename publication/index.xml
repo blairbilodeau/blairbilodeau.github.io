@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2021</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Minimax Optimal Quantile and Semi-Adversarial Regret via Root-Logarithmic Regularizers</title>
+      <link>https://blairbilodeau.github.io/publication/root-log/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/root-log/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Minimax Rates for Conditional Density Estimation via Empirical Entropy</title>

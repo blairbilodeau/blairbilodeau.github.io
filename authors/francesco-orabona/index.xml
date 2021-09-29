@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Blair Bilodeau</title>
-    <link>https://blairbilodeau.github.io/publication_types/1/</link>
-    <description>Recent content in 1 on Blair Bilodeau</description>
+    <title>Francesco Orabona on Blair Bilodeau</title>
+    <link>https://blairbilodeau.github.io/authors/francesco-orabona/</link>
+    <description>Recent content in Francesco Orabona on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2021</copyright>
     <lastBuildDate>Wed, 01 Sep 2021 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://blairbilodeau.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blairbilodeau.github.io/authors/francesco-orabona/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/root-log/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tight Bounds on Minimax Regret Under Logarithmic Loss via Self-Concordance</title>
-      <link>https://blairbilodeau.github.io/publication/minimax-logloss/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/minimax-logloss/</guid>
       <description></description>
     </item>
     
