@@ -1,6 +1,6 @@
-@misc{bilodeau20apq,
+@article{bilodeau22apq,
   author = {{Bilodeau}, Blair and {Stanford}, David A.},
-  title = {High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs},
-  year = {2020},
-  note = {arXiv:2001.06054},
+  title = {High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care {KPIs}},
+  year = {2022},
+  journal = {INFOR: Information Systems and Operational Research (to appear)},
 }

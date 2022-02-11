@@ -26,7 +26,7 @@ Create a new blog post as usual Run the following commands in your Terminal, sub
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://blairbilodeau.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/post/getting-started/</guid>
       <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
@@ -40,9 +40,9 @@ Follow our easy step by step guide to learn how to build your own free website w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://blairbilodeau.github.io/author/admin/</guid>
-      <description>I&amp;rsquo;m a PhD candidate in Statistical Sciences at the University of Toronto, advised by Daniel Roy. I am supported by an NSERC Doctoral Canada Graduate Scholarship and the Vector Institute. I received my BSc in Financial Modelling from Western University in 2018.
-My research area is broadly the theoretical foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms. I&amp;rsquo;m currently thinking about&amp;hellip;
-Statistical Complexities: For nonparametric statistical procedures, existing notions of complexity lead to vacuous or suboptimal guarantees on predictive performance.</description>
+      <description>I&amp;rsquo;ll be a Research Intern at Google Brain with Been Kim for Summer 2022.
+I&amp;rsquo;m a PhD candidate in Statistical Sciences at the University of Toronto, advised by Daniel Roy. I am supported by an NSERC Doctoral Canada Graduate Scholarship and the Vector Institute. I received my BSc in Financial Modelling from Western University in 2018.
+My research area is broadly the theoretical foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms.</description>
     </item>
     
   </channel>
