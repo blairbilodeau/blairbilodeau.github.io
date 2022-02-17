@@ -1,0 +1,6 @@
+@misc{stringer22glmms,
+  author = {{Stringer}, Alex and {Bilodeau}, Blair},
+  title = {Fitting Generalized Linear Mixed Models using Adaptive Quadrature},
+  year = {2022},
+  note = {arXiv:2202.07864},
+}
