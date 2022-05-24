@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2022</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Alex Stringer</title>
-      <link>https://blairbilodeau.github.io/authors/alex-stringer/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0800</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/authors/alex-stringer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Alex Stringer&lt;sup&gt;*&lt;/sup&gt;</title>
       <link>https://blairbilodeau.github.io/authors/alex-stringersup/sup/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/alex-stringersup/sup/</guid>
       <description></description>
@@ -33,7 +24,7 @@
     <item>
       <title>Andrew Appleton</title>
       <link>https://blairbilodeau.github.io/authors/andrew-appleton/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/andrew-appleton/</guid>
       <description></description>
@@ -42,7 +33,7 @@
     <item>
       <title>Blair Bilodeau</title>
       <link>https://blairbilodeau.github.io/authors/blair-bilodeau/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/blair-bilodeau/</guid>
       <description></description>
@@ -51,7 +42,7 @@
     <item>
       <title>Blair Bilodeau&lt;sup&gt;*&lt;/sup&gt;</title>
       <link>https://blairbilodeau.github.io/authors/blair-bilodeausup/sup/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/blair-bilodeausup/sup/</guid>
       <description></description>
@@ -60,7 +51,7 @@
     <item>
       <title>Daniel M. Roy</title>
       <link>https://blairbilodeau.github.io/authors/daniel-m.-roy/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/daniel-m.-roy/</guid>
       <description></description>
@@ -69,7 +60,7 @@
     <item>
       <title>David A. Stanford</title>
       <link>https://blairbilodeau.github.io/authors/david-a.-stanford/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/david-a.-stanford/</guid>
       <description></description>
@@ -78,7 +69,7 @@
     <item>
       <title>Dylan J. Foster</title>
       <link>https://blairbilodeau.github.io/authors/dylan-j.-foster/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/dylan-j.-foster/</guid>
       <description></description>
@@ -87,7 +78,7 @@
     <item>
       <title>Francesco Orabona</title>
       <link>https://blairbilodeau.github.io/authors/francesco-orabona/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/francesco-orabona/</guid>
       <description></description>
@@ -96,7 +87,7 @@
     <item>
       <title>Jeffrey Negrea&lt;sup&gt;*&lt;/sup&gt;</title>
       <link>https://blairbilodeau.github.io/authors/jeffrey-negreasup/sup/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/jeffrey-negreasup/sup/</guid>
       <description></description>
@@ -105,7 +96,7 @@
     <item>
       <title>Linbo Wang</title>
       <link>https://blairbilodeau.github.io/authors/linbo-wang/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/linbo-wang/</guid>
       <description></description>
@@ -114,7 +105,7 @@
     <item>
       <title>Mark Goldszmidt</title>
       <link>https://blairbilodeau.github.io/authors/mark-goldszmidt/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/mark-goldszmidt/</guid>
       <description></description>
@@ -123,7 +114,7 @@
     <item>
       <title>Nicolò Campolongo</title>
       <link>https://blairbilodeau.github.io/authors/nicol%C3%B2-campolongo/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/nicol%C3%B2-campolongo/</guid>
       <description></description>
@@ -132,7 +123,7 @@
     <item>
       <title>Yanbo Tang&lt;sup&gt;*&lt;/sup&gt;</title>
       <link>https://blairbilodeau.github.io/authors/yanbo-tangsup/sup/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/yanbo-tangsup/sup/</guid>
       <description></description>
