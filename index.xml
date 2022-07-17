@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2022</copyright>
-    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 -0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Adaptively Exploiting d-Separators with Causal Bandits</title>
       <link>https://blairbilodeau.github.io/publication/adaptive-causal/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/adaptive-causal/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Fitting Generalized Linear Mixed Models using Adaptive Quadrature</title>
       <link>https://blairbilodeau.github.io/publication/glmms/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/glmms/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs</title>
       <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
       <description></description>
@@ -40,7 +40,7 @@
     <item>
       <title>Minimax Optimal Quantile and Semi-Adversarial Regret via Root-Logarithmic Regularizers</title>
       <link>https://blairbilodeau.github.io/publication/root-log/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/root-log/</guid>
       <description></description>
@@ -49,7 +49,7 @@
     <item>
       <title>STA347: Probability Theory</title>
       <link>https://blairbilodeau.github.io/teaching/sta347/</link>
-      <pubDate>Tue, 13 Jul 2021 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/teaching/sta347/</guid>
       <description>&lt;p&gt;Course notes I made for teaching STA347: Probability Theory at the University of Toronto.&lt;/p&gt;
@@ -59,7 +59,7 @@
     <item>
       <title>Introduction to Theoretical Statistics Research</title>
       <link>https://blairbilodeau.github.io/teaching/intro-theory/</link>
-      <pubDate>Sat, 10 Jul 2021 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/teaching/intro-theory/</guid>
       <description>&lt;p&gt;Undergraduate statistics courses focus heavily on how statistics is applied in practice along with theoretical guarantees on how classical methods perform, but often leave undergrads unclear what modern theoretical research looks like, or how to begin doing it themselves. In this seminar, I’ll introduce at a high-level my views on what the key common aspects are of most theoretical statistics results. Topics of discussion include: questions theoreticians aim to answer, impacts of theoretical research on statistical practice, and limitations of current common trends in theoretical statistics. I’ll illustrate these topics using brief summaries of my own research contributions in classical statistics, machine learning, and modern computational methods.&lt;/p&gt;
@@ -69,7 +69,7 @@
     <item>
       <title>Minimax Rates for Conditional Density Estimation via Empirical Entropy</title>
       <link>https://blairbilodeau.github.io/publication/density-estimation/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/density-estimation/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference</title>
       <link>https://blairbilodeau.github.io/publication/aghq/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/aghq/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization</title>
       <link>https://blairbilodeau.github.io/publication/semi-adv/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/semi-adv/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Scripts to Scrape Data from arXiv and biorXiv</title>
       <link>https://blairbilodeau.github.io/teaching/arxiv-biorxiv/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 23 May 2020 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/teaching/arxiv-biorxiv/</guid>
       <description>&lt;p&gt;Python script to facilitate easy automatic pulling of new papers from arXiv, biorXiv, and medrXiv with custom search features.&lt;/p&gt;
@@ -106,7 +106,7 @@
     <item>
       <title>Tight Bounds on Minimax Regret Under Logarithmic Loss via Self-Concordance</title>
       <link>https://blairbilodeau.github.io/publication/minimax-logloss/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/minimax-logloss/</guid>
       <description></description>
@@ -115,7 +115,7 @@
     <item>
       <title>The average waiting time for both classes in a delayed accumulating priority queue</title>
       <link>https://blairbilodeau.github.io/talk/cors19/</link>
-      <pubDate>Mon, 27 May 2019 13:45:00 -0400</pubDate>
+      <pubDate>Mon, 27 May 2019 13:45:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/talk/cors19/</guid>
       <description></description>
@@ -124,7 +124,7 @@
     <item>
       <title>Simulated Co-location of Patients Admitted to an Inpatient Internal Medicine Teaching Unit: Potential Impacts on Efficiency and Physician-Nurse Collaboration</title>
       <link>https://blairbilodeau.github.io/publication/colocation/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
       <description></description>
@@ -196,7 +196,7 @@ rm Untitled.md
     <item>
       <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
       <link>https://blairbilodeau.github.io/talk/orahs18/</link>
-      <pubDate>Thu, 02 Aug 2018 15:30:00 -0400</pubDate>
+      <pubDate>Thu, 02 Aug 2018 15:30:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/talk/orahs18/</guid>
       <description></description>

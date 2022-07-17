@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2022</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Adaptively Exploiting d-Separators with Causal Bandits</title>
       <link>https://blairbilodeau.github.io/publication/adaptive-causal/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/adaptive-causal/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Fitting Generalized Linear Mixed Models using Adaptive Quadrature</title>
       <link>https://blairbilodeau.github.io/publication/glmms/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/glmms/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Minimax Rates for Conditional Density Estimation via Empirical Entropy</title>
       <link>https://blairbilodeau.github.io/publication/density-estimation/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/density-estimation/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference</title>
       <link>https://blairbilodeau.github.io/publication/aghq/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/aghq/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization</title>
       <link>https://blairbilodeau.github.io/publication/semi-adv/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/semi-adv/</guid>
       <description></description>
