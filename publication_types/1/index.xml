@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2022</copyright>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adaptively Exploiting d-Separators with Causal Bandits</title>
+      <link>https://blairbilodeau.github.io/publication/adaptive-causal/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0800</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/adaptive-causal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Minimax Optimal Quantile and Semi-Adversarial Regret via Root-Logarithmic Regularizers</title>
