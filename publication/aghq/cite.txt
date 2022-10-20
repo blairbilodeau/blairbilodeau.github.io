@@ -1,6 +1,6 @@
-@misc{bilodeau21aghq,
+@article{bilodeau22aghq,
   author = {{Bilodeau}, Blair and {Stringer}, Alex and {Tang}, Yanbo},
   title = {Stochastic Convergence Rates and Applications of Adaptive Quadrature in {Bayesian} Inference},
-  year = {2021},
-  note = {arXiv:2102.06801}
+  year = {2022},
+  journal = {Journal of the American Statistical Association (to appear)}
 }

@@ -1,0 +1,6 @@
+@article{bilodeau22laplace,
+  author = {{Bilodeau}, Blair and {Tang}, Yanbo and {Stringer}, Alex},
+  title = {On the Tightness of the {Laplace} Approximation for Statistical Inference},
+  year = {2022},
+  journal = {arXiv:2210.09442}
+}

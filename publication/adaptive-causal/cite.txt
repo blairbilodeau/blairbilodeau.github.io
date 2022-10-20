@@ -1,6 +1,6 @@
-@misc{bilodeau22causal,
+@inproceedings{bilodeau22causal,
   author = {{Bilodeau}, Blair and {Wang}, Linbo and {Roy}, Daniel M.},
   title = {Adaptively Exploiting $d$-Separators with Causal Bandits},
   year = {2022},
-  note = {arXiv:2202.05100},
+  booktitle = {Advances in Neural Information Processing Systems 35},
 }

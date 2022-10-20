@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2022</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>&lt;sup&gt;(A)&lt;/sup&gt;Blair Bilodeau</title>
+      <link>https://blairbilodeau.github.io/authors/supa/supblair-bilodeau/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/authors/supa/supblair-bilodeau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Stringer</title>
+      <link>https://blairbilodeau.github.io/authors/alex-stringer/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/authors/alex-stringer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alex Stringer&lt;sup&gt;*&lt;/sup&gt;</title>
@@ -33,7 +51,7 @@
     <item>
       <title>Blair Bilodeau</title>
       <link>https://blairbilodeau.github.io/authors/blair-bilodeau/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/blair-bilodeau/</guid>
       <description></description>
@@ -60,7 +78,7 @@
     <item>
       <title>David A. Stanford</title>
       <link>https://blairbilodeau.github.io/authors/david-a.-stanford/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/authors/david-a.-stanford/</guid>
       <description></description>
@@ -121,11 +139,11 @@
     </item>
     
     <item>
-      <title>Yanbo Tang&lt;sup&gt;*&lt;/sup&gt;</title>
-      <link>https://blairbilodeau.github.io/authors/yanbo-tangsup/sup/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 -0500</pubDate>
+      <title>Yanbo Tang</title>
+      <link>https://blairbilodeau.github.io/authors/yanbo-tang/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://blairbilodeau.github.io/authors/yanbo-tangsup/sup/</guid>
+      <guid>https://blairbilodeau.github.io/authors/yanbo-tang/</guid>
       <description></description>
     </item>
     

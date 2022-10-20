@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&lt;sup&gt;(A)&lt;/sup&gt;Blair Bilodeau on Blair Bilodeau</title>
+    <link>https://blairbilodeau.github.io/authors/supa/supblair-bilodeau/</link>
+    <description>Recent content in &lt;sup&gt;(A)&lt;/sup&gt;Blair Bilodeau on Blair Bilodeau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Blair Bilodeau 2022</copyright>
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://blairbilodeau.github.io/authors/supa/supblair-bilodeau/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference</title>
+      <link>https://blairbilodeau.github.io/publication/aghq/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/aghq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>On the Tightness of the Laplace Approximation for Statistical Inference</title>
+      <link>https://blairbilodeau.github.io/publication/laplace-lower/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/laplace-lower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adaptively Exploiting d-Separators with Causal Bandits</title>
       <link>https://blairbilodeau.github.io/publication/adaptive-causal/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
@@ -25,15 +34,6 @@
       <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/glmms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs</title>
-      <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
       <description></description>
     </item>
     
@@ -109,6 +109,15 @@
       <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/minimax-logloss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs</title>
+      <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
       <description></description>
     </item>
     
@@ -191,15 +200,6 @@ rm Untitled.md
 
 &lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration</title>
-      <link>https://blairbilodeau.github.io/talk/orahs18/</link>
-      <pubDate>Thu, 02 Aug 2018 15:30:00 -0400</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/talk/orahs18/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2022</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2022 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/blair-bilodeau/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On the Tightness of the Laplace Approximation for Statistical Inference</title>
+      <link>https://blairbilodeau.github.io/publication/laplace-lower/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/laplace-lower/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptively Exploiting d-Separators with Causal Bandits</title>
@@ -18,15 +27,6 @@
       <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/adaptive-causal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs</title>
-      <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
       <description></description>
     </item>
     
@@ -72,6 +72,15 @@
       <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/minimax-logloss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs</title>
+      <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
       <description></description>
     </item>
     
