@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&lt;sup&gt;*&lt;/sup&gt;Jeffrey Negrea on Blair Bilodeau</title>
+    <link>https://blairbilodeau.github.io/authors/sup/supjeffrey-negrea/</link>
+    <description>Recent content in &lt;sup&gt;*&lt;/sup&gt;Jeffrey Negrea on Blair Bilodeau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Blair Bilodeau 2022</copyright>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://blairbilodeau.github.io/authors/sup/supjeffrey-negrea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minimax Optimal Quantile and Semi-Adversarial Regret via Root-Logarithmic Regularizers</title>
+      <link>https://blairbilodeau.github.io/publication/root-log/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/root-log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization</title>
+      <link>https://blairbilodeau.github.io/publication/semi-adv/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/semi-adv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
