@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Recent News</title>
+      <link>https://blairbilodeau.github.io/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/home/accomplishments/</guid>
+      <description>(Oct 2022) &amp;nbsp; Adaptively Exploiting d-Separators with Causal Bandits designated as an Oral presentation at NeurIPS 2022. (Oct 2022) &amp;nbsp; Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference accepted by the Journal of the American Statistical Association. (Oct 2022) &amp;nbsp; I was named a Rising Star in Data Science at the University of Chicago. (July 2022) &amp;nbsp; I&amp;rsquo;m a research intern at Google Brain with Been Kim for the summer.</description>
+    </item>
+    
+    <item>
       <title>Experience</title>
       <link>https://blairbilodeau.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -108,15 +117,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://blairbilodeau.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accomplish&amp;shy;ments</title>
-      <link>https://blairbilodeau.github.io/home/accomplishments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/home/accomplishments/</guid>
       <description></description>
     </item>
     
