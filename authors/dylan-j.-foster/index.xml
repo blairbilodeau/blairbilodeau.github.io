@@ -6,8 +6,8 @@
     <description>Recent content in Dylan J. Foster on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Blair Bilodeau 2022</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 -0600</lastBuildDate>
+    <copyright>&amp;copy; Blair Bilodeau 2023</copyright>
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/dylan-j.-foster/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Minimax Rates for Conditional Density Estimation via Empirical Entropy</title>
       <link>https://blairbilodeau.github.io/publication/density-estimation/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/density-estimation/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Tight Bounds on Minimax Regret Under Logarithmic Loss via Self-Concordance</title>
       <link>https://blairbilodeau.github.io/publication/minimax-logloss/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/minimax-logloss/</guid>
       <description></description>

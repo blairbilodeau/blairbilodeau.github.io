@@ -6,34 +6,52 @@
     <description>Recent content in Papers on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Blair Bilodeau 2022</copyright>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 -0700</lastBuildDate>
+    <copyright>&amp;copy; Blair Bilodeau 2023</copyright>
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Impossibility Theorems for Feature Attribution</title>
-      <link>https://blairbilodeau.github.io/publication/interpretability/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 -0700</pubDate>
+      <title>Minimax Rates for Conditional Density Estimation via Empirical Entropy</title>
+      <link>https://blairbilodeau.github.io/publication/density-estimation/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 -0500</pubDate>
       
-      <guid>https://blairbilodeau.github.io/publication/interpretability/</guid>
+      <guid>https://blairbilodeau.github.io/publication/density-estimation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Tightness of the Laplace Approximation for Statistical Inference</title>
       <link>https://blairbilodeau.github.io/publication/laplace-lower/</link>
-      <pubDate>Thu, 20 Oct 2022 00:00:00 -0600</pubDate>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/laplace-lower/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Impossibility Theorems for Feature Attribution</title>
+      <link>https://blairbilodeau.github.io/publication/interpretability/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference</title>
+      <link>https://blairbilodeau.github.io/publication/aghq/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/aghq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adaptively Exploiting d-Separators with Causal Bandits</title>
       <link>https://blairbilodeau.github.io/publication/adaptive-causal/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/adaptive-causal/</guid>
       <description></description>
@@ -42,43 +60,34 @@
     <item>
       <title>Fitting Generalized Linear Mixed Models using Adaptive Quadrature</title>
       <link>https://blairbilodeau.github.io/publication/glmms/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/glmms/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs</title>
+      <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Minimax Optimal Quantile and Semi-Adversarial Regret via Root-Logarithmic Regularizers</title>
       <link>https://blairbilodeau.github.io/publication/root-log/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/root-log/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Minimax Rates for Conditional Density Estimation via Empirical Entropy</title>
-      <link>https://blairbilodeau.github.io/publication/density-estimation/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0600</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/density-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference</title>
-      <link>https://blairbilodeau.github.io/publication/aghq/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 -0700</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/aghq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization</title>
       <link>https://blairbilodeau.github.io/publication/semi-adv/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/semi-adv/</guid>
       <description></description>
@@ -87,25 +96,16 @@
     <item>
       <title>Tight Bounds on Minimax Regret Under Logarithmic Loss via Self-Concordance</title>
       <link>https://blairbilodeau.github.io/publication/minimax-logloss/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/minimax-logloss/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs</title>
-      <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0700</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Simulated Co-location of Patients Admitted to an Inpatient Internal Medicine Teaching Unit: Potential Impacts on Efficiency and Physician-Nurse Collaboration</title>
       <link>https://blairbilodeau.github.io/publication/colocation/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
       <description></description>

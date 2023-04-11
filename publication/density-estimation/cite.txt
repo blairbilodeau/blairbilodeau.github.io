@@ -1,6 +1,6 @@
-@misc{bilodeau21density,
+@article{bilodeau23density,
   author = {{Bilodeau}, Blair and {Foster}, Dylan J. and {Roy}, Daniel M.},
   title = {Minimax Rates for Conditional Density Estimation via Empirical Entropy},
-  year = {2021},
-  note = {arXiv:2109.10461},
+  year = {2023},
+  journal = {Annals of Statistics (in press)},
 }

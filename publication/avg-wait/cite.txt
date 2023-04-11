@@ -2,5 +2,8 @@
   author = {{Bilodeau}, Blair and {Stanford}, David A.},
   title = {High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care {KPIs}},
   year = {2022},
-  journal = {INFOR: Information Systems and Operational Research (to appear)},
+  journal = {INFOR: Information Systems and Operational Research},
+  volume = {60},
+  number = {3},
+  pages = {285--314},
 }

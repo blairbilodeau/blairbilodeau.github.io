@@ -6,7 +6,7 @@
     <description>Recent content in admin on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Blair Bilodeau 2022</copyright>
+    <copyright>&amp;copy; Blair Bilodeau 2023</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +26,7 @@ Create a new blog post as usual Run the following commands in your Terminal, sub
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://blairbilodeau.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/post/getting-started/</guid>
       <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
@@ -40,9 +40,8 @@ Follow our easy step by step guide to learn how to build your own free website w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://blairbilodeau.github.io/author/admin/</guid>
-      <description>I am on the job market for faculty and research scientist positions.
-I&amp;rsquo;m a PhD candidate in Statistical Sciences at the University of Toronto, advised by Daniel Roy. My PhD was supported by an NSERC Doctoral Canada Graduate Scholarship and the Vector Institute. In summer 2022, I was a Research Intern at Google Brain with Been Kim. I received my BSc in Financial Modelling from Western University in 2018.
-My research area is broadly the theoretical foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms.</description>
+      <description>I will join The Voleon Group as a Member of Research Staff in July 2023.
+Until then, I&amp;rsquo;m a PhD candidate in Statistical Sciences at the University of Toronto, advised by Daniel Roy. My PhD was supported by an NSERC Doctoral Canada Graduate Scholarship and the Vector Institute. In summer 2022, I was a Research Intern at Google Brain with Been Kim. I received my BSc in Financial Modelling from Western University in 2018.</description>
     </item>
     
   </channel>
