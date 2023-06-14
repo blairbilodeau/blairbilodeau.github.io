@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Don&#39;t Trust Your Eyes: On the (Un)reliability of Feature Visualizations</title>
+      <link>https://blairbilodeau.github.io/publication/feature-vis/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/feature-vis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Minimax Rates for Conditional Density Estimation via Empirical Entropy</title>
       <link>https://blairbilodeau.github.io/publication/density-estimation/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 -0500</pubDate>
@@ -136,15 +145,6 @@
       <pubDate>Mon, 27 May 2019 13:45:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/talk/cors19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulated Co-location of Patients Admitted to an Inpatient Internal Medicine Teaching Unit: Potential Impacts on Efficiency and Physician-Nurse Collaboration</title>
-      <link>https://blairbilodeau.github.io/publication/colocation/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
       <description></description>
     </item>
     

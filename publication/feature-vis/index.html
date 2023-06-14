@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Blair Bilodeau, PhD Candidate in Statistics at the University of Toronto">
+  <meta name="description" content="How do neural networks extract patterns from pixels? Feature visualizations attempt to answer this important question by visualizing highly activating patterns through optimization. Today, visualization methods form the foundation of our knowledge about the internal workings of neural networks, as a type of mechanistic interpretability. Here we ask: How reliable are feature visualizations? We start our investigation by developing network circuits that trick feature visualizations into showing arbitrary patterns that are completely disconnected from normal network behavior on natural input. We then provide evidence for a similar phenomenon occurring in standard, unmanipulated networks: feature visualizations are processed very differently from standard input, casting doubt on their ability to &#39;explain&#39; how neural networks process natural images. We underpin this empirical finding by theory proving that the set of functions that can be reliably understood by feature visualization is extremely small and does not include general black-box neural networks. Therefore, a promising way forward could be the development of networks that enforce certain structures in order to ensure more reliable feature visualizations.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://blairbilodeau.github.io/authors/">
+  <link rel="alternate" hreflang="en-us" href="https://blairbilodeau.github.io/publication/feature-vis/">
 
   
 
@@ -105,15 +105,15 @@
   
 
   
-  <link rel="alternate" href="https://blairbilodeau.github.io/authors/index.xml" type="application/rss+xml" title="Blair Bilodeau">
-  <link rel="feed" href="https://blairbilodeau.github.io/authors/index.xml" type="application/rss+xml" title="Blair Bilodeau">
+  <link rel="alternate" href="https://blairbilodeau.github.io/index.xml" type="application/rss+xml" title="Blair Bilodeau">
+  <link rel="feed" href="https://blairbilodeau.github.io/index.xml" type="application/rss+xml" title="Blair Bilodeau">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://blairbilodeau.github.io/authors/">
+  <link rel="canonical" href="https://blairbilodeau.github.io/publication/feature-vis/">
 
   
   
@@ -128,19 +128,21 @@
   <meta property="twitter:creator" content="@blairbilodeau">
   
   <meta property="og:site_name" content="Blair Bilodeau">
-  <meta property="og:url" content="https://blairbilodeau.github.io/authors/">
-  <meta property="og:title" content="Authors | Blair Bilodeau">
-  <meta property="og:description" content="Blair Bilodeau, PhD Candidate in Statistics at the University of Toronto"><meta property="og:image" content="https://blairbilodeau.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://blairbilodeau.github.io/publication/feature-vis/">
+  <meta property="og:title" content="Don&#39;t Trust Your Eyes: On the (Un)reliability of Feature Visualizations | Blair Bilodeau">
+  <meta property="og:description" content="How do neural networks extract patterns from pixels? Feature visualizations attempt to answer this important question by visualizing highly activating patterns through optimization. Today, visualization methods form the foundation of our knowledge about the internal workings of neural networks, as a type of mechanistic interpretability. Here we ask: How reliable are feature visualizations? We start our investigation by developing network circuits that trick feature visualizations into showing arbitrary patterns that are completely disconnected from normal network behavior on natural input. We then provide evidence for a similar phenomenon occurring in standard, unmanipulated networks: feature visualizations are processed very differently from standard input, casting doubt on their ability to &#39;explain&#39; how neural networks process natural images. We underpin this empirical finding by theory proving that the set of functions that can be reliably understood by feature visualization is extremely small and does not include general black-box neural networks. Therefore, a promising way forward could be the development of networks that enforce certain structures in order to ensure more reliable feature visualizations."><meta property="og:image" content="https://blairbilodeau.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2022-02-15T00:00:00-05:00">
+  <meta property="article:published_time" content="2023-06-01T00:00:00-04:00">
+  
+  <meta property="article:modified_time" content="2023-06-01T00:00:00-04:00">
   
 
   
 
   
 
-  <title>Authors | Blair Bilodeau</title>
+  <title>Don&#39;t Trust Your Eyes: On the (Un)reliability of Feature Visualizations | Blair Bilodeau</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -295,8 +297,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-
+  
 
 
 
@@ -310,122 +313,270 @@
 
 
   
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Don&#39;t Trust Your Eyes: On the (Un)reliability of Feature Visualizations</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2023-06-01 00:00:00 -0400 EDT" itemprop="datePublished">
+<meta content="2023-06-01 00:00:00 -0400 EDT" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="/authors/sup/suprobert-geirhos/"><sup>*</sup>Robert Geirhos</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="/authors/sup/suproland-s.-zimmermann/"><sup>*</sup>Roland S. Zimmermann</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="/authors/sup/supblair-bilodeau/"><sup>*</sup>Blair Bilodeau</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="/authors/wieland-brendel/">Wieland Brendel</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="/authors/been-kim/">Been Kim</a></span></span>
+  
+
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>2023</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+    
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Authors</h1>
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/publication/feature-vis/cite.txt" >
+    
+    Cite
+  </a>
 
   
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2306.04719" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  <ul>
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">How do neural networks extract patterns from pixels? Feature visualizations attempt to answer this important question by visualizing highly activating patterns through optimization. Today, visualization methods form the foundation of our knowledge about the internal workings of neural networks, as a type of mechanistic interpretability. Here we ask: How reliable are feature visualizations? We start our investigation by developing network circuits that trick feature visualizations into showing arbitrary patterns that are completely disconnected from normal network behavior on natural input. We then provide evidence for a similar phenomenon occurring in standard, unmanipulated networks: feature visualizations are processed very differently from standard input, casting doubt on their ability to &lsquo;explain&rsquo; how neural networks process natural images. We underpin this empirical finding by theory proving that the set of functions that can be reliably understood by feature visualization is extremely small and does not include general black-box neural networks. Therefore, a promising way forward could be the development of networks that enforce certain structures in order to ensure more reliable feature visualizations.</p>
     
-      
-      
-      
-      
-        
-      
-    <li><a href="https://blairbilodeau.github.io/authors/supa/supblair-bilodeau/">(A)Blair Bilodeau</a></li>
+
     
-      
-      
-      
-      
-        
-      
-    <li><a href="https://blairbilodeau.github.io/authors/sup/supalex-stringer/">*Alex Stringer</a></li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
-      
-      
-      
-      
-        
-      
-    <li><a href="https://blairbilodeau.github.io/authors/sup/supblair-bilodeau/">*Blair Bilodeau</a></li>
+
     
-      
-      
-      
-      
-        
-      
-    <li><a href="https://blairbilodeau.github.io/authors/sup/supjeffrey-negrea/">*Jeffrey Negrea</a></li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">arXiv Preprint</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
-      
-      
-      
-      
-        
-      
-    <li><a href="https://blairbilodeau.github.io/authors/sup/suprobert-geirhos/">*Robert Geirhos</a></li>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
     
-      
-      
-      
-      
-        
-      
-    <li><a href="https://blairbilodeau.github.io/authors/sup/suproland-s.-zimmermann/">*Roland S. Zimmermann</a></li>
+
+
+
+
     
-      
-      
-      
-      
-        
-      
-    <li><a href="https://blairbilodeau.github.io/authors/alex-stringer/">Alex Stringer</a></li>
-    
-      
-      
-      
-      
-        
-      
-    <li><a href="https://blairbilodeau.github.io/authors/andrew-appleton/">Andrew Appleton</a></li>
-    
-      
-      
-      
-      
-        
-      
-    <li><a href="https://blairbilodeau.github.io/authors/been-kim/">Been Kim</a></li>
-    
-      
-      
-      
-      
-        
-      
-    <li><a href="https://blairbilodeau.github.io/authors/blair-bilodeau/">Blair Bilodeau</a></li>
-    
-  </ul>
+
+
+
+
+
 
   
-<nav>
-  <ul class="pagination justify-content-center">
+  
     
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
+  
+  
 
 
+
+
+
+
+
+
+  </div>
 </div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   

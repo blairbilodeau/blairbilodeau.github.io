@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Been Kim on Blair Bilodeau</title>
-    <link>https://blairbilodeau.github.io/authors/been-kim/</link>
-    <description>Recent content in Been Kim on Blair Bilodeau</description>
+    <title>&lt;sup&gt;*&lt;/sup&gt;Roland S. Zimmermann on Blair Bilodeau</title>
+    <link>https://blairbilodeau.github.io/authors/sup/suproland-s.-zimmermann/</link>
+    <description>Recent content in &lt;sup&gt;*&lt;/sup&gt;Roland S. Zimmermann on Blair Bilodeau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2023</copyright>
     <lastBuildDate>Thu, 01 Jun 2023 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://blairbilodeau.github.io/authors/been-kim/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blairbilodeau.github.io/authors/sup/suproland-s.-zimmermann/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Thu, 01 Jun 2023 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/feature-vis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impossibility Theorems for Feature Attribution</title>
-      <link>https://blairbilodeau.github.io/publication/interpretability/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/interpretability/</guid>
       <description></description>
     </item>
     

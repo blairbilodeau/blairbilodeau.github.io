@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://blairbilodeau.github.io/publication/feature-vis/</loc>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://blairbilodeau.github.io/publication/density-estimation/</loc>
       <lastmod>2023-03-01T00:00:00-05:00</lastmod>
     </url>
@@ -181,7 +189,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication_types/3/</loc>
-      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -208,7 +216,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/sup/supblair-bilodeau/</loc>
-      <lastmod>2022-02-01T00:00:00-05:00</lastmod>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -218,6 +226,24 @@
     
       <loc>https://blairbilodeau.github.io/authors/sup/supjeffrey-negrea/</loc>
       <lastmod>2021-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/authors/sup/suprobert-geirhos/</loc>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/authors/sup/suproland-s.-zimmermann/</loc>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -270,7 +296,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/been-kim/</loc>
-      <lastmod>2022-12-01T00:00:00-05:00</lastmod>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -395,7 +421,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/</loc>
-      <lastmod>2023-03-01T00:00:00-05:00</lastmod>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -460,6 +486,15 @@
     
       <loc>https://blairbilodeau.github.io/teaching/</loc>
       <lastmod>2021-07-13T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://blairbilodeau.github.io/authors/wieland-brendel/</loc>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
