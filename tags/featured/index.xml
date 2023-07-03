@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2023</copyright>
-    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/tags/featured/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference</title>
       <link>https://blairbilodeau.github.io/publication/aghq/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/aghq/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization</title>
       <link>https://blairbilodeau.github.io/publication/semi-adv/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/semi-adv/</guid>
       <description></description>

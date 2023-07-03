@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2023</copyright>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/natasha-jaques/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Impossibility Theorems for Feature Attribution</title>
       <link>https://blairbilodeau.github.io/publication/interpretability/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0800</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/interpretability/</guid>
       <description></description>
