@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2023</copyright>
-    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/sup/supblair-bilodeau/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization</title>
+      <link>https://blairbilodeau.github.io/publication/semi-adv/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/semi-adv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Don&#39;t Trust Your Eyes: On the (Un)reliability of Feature Visualizations</title>
@@ -36,15 +45,6 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 -0700</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/root-log/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization</title>
-      <link>https://blairbilodeau.github.io/publication/semi-adv/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 -0700</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/semi-adv/</guid>
       <description></description>
     </item>
     
