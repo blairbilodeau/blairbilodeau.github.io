@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2023</copyright>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/pang-wei-koh/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Impossibility Theorems for Feature Attribution</title>
       <link>https://blairbilodeau.github.io/publication/interpretability/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/interpretability/</guid>
       <description></description>

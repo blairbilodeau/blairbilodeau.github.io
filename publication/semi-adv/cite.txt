@@ -1,6 +1,9 @@
-@article{bilodeau23semiadv,
+@article{semiadv,
   author = {{Bilodeau}, Blair and {Negrea}, Jeffrey and {Roy}, Daniel M.},
   title = {Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization},
   year = {2023},
-  journal = {Annals of Statistics (to appear)},
+  journal = {Annals of Statistics},
+  volume = {51},
+  number = {4},
+  pages = {1850--1876}
 }

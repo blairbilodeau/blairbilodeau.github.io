@@ -1,4 +1,4 @@
-@article{bilodeau23density,
+@article{density,
   author = {{Bilodeau}, Blair and {Foster}, Dylan J. and {Roy}, Daniel M.},
   title = {Minimax Rates for Conditional Density Estimation via Empirical Entropy},
   year = {2023},

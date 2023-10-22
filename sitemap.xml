@@ -4,8 +4,16 @@
     
     <url>
     
+      <loc>https://blairbilodeau.github.io/publication/interpretability/</loc>
+      <lastmod>2023-10-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://blairbilodeau.github.io/publication/semi-adv/</loc>
-      <lastmod>2023-08-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-08-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -13,7 +21,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/feature-vis/</loc>
-      <lastmod>2023-06-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -21,7 +29,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/density-estimation/</loc>
-      <lastmod>2023-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2023-03-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -29,15 +37,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/laplace-lower/</loc>
-      <lastmod>2023-01-20T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://blairbilodeau.github.io/publication/interpretability/</loc>
-      <lastmod>2022-12-01T00:00:00-08:00</lastmod>
+      <lastmod>2023-01-20T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -45,7 +45,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/aghq/</loc>
-      <lastmod>2022-02-15T00:00:00-08:00</lastmod>
+      <lastmod>2022-02-15T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -53,7 +53,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/adaptive-causal/</loc>
-      <lastmod>2022-02-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-02-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -61,7 +61,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/glmms/</loc>
-      <lastmod>2022-02-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-02-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -69,7 +69,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/avg-wait/</loc>
-      <lastmod>2022-01-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -77,7 +77,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/root-log/</loc>
-      <lastmod>2021-09-01T00:00:00-07:00</lastmod>
+      <lastmod>2021-09-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -85,7 +85,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/teaching/sta347/</loc>
-      <lastmod>2021-07-13T00:00:00-07:00</lastmod>
+      <lastmod>2021-07-13T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -93,7 +93,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/teaching/intro-theory/</loc>
-      <lastmod>2021-07-10T00:00:00-07:00</lastmod>
+      <lastmod>2021-07-10T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -101,7 +101,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/teaching/arxiv-biorxiv/</loc>
-      <lastmod>2020-05-23T00:00:00-07:00</lastmod>
+      <lastmod>2020-05-23T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -109,7 +109,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/minimax-logloss/</loc>
-      <lastmod>2020-02-15T00:00:00-08:00</lastmod>
+      <lastmod>2020-02-15T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -117,7 +117,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/talk/cors19/</loc>
-      <lastmod>2019-05-27T13:45:00-07:00</lastmod>
+      <lastmod>2019-05-27T13:45:00-04:00</lastmod>
     </url>
     
   
@@ -125,7 +125,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/colocation/</loc>
-      <lastmod>2019-05-01T00:00:00-07:00</lastmod>
+      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -141,7 +141,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/talk/orahs18/</loc>
-      <lastmod>2018-08-02T15:30:00-07:00</lastmod>
+      <lastmod>2018-08-02T15:30:00-04:00</lastmod>
     </url>
     
   
@@ -149,7 +149,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -171,7 +171,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication_types/1/</loc>
-      <lastmod>2022-02-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -180,7 +180,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication_types/2/</loc>
-      <lastmod>2023-08-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -189,7 +189,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication_types/3/</loc>
-      <lastmod>2023-06-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -198,7 +198,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/supa/supblair-bilodeau/</loc>
-      <lastmod>2022-02-15T00:00:00-08:00</lastmod>
+      <lastmod>2022-02-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -207,7 +207,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/sup/supalex-stringer/</loc>
-      <lastmod>2022-02-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -216,7 +216,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/sup/supblair-bilodeau/</loc>
-      <lastmod>2023-08-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -225,7 +225,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/sup/supjeffrey-negrea/</loc>
-      <lastmod>2023-08-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -234,7 +234,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/sup/suprobert-geirhos/</loc>
-      <lastmod>2023-06-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -243,7 +243,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/sup/suproland-s.-zimmermann/</loc>
-      <lastmod>2023-06-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -252,7 +252,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -261,7 +261,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/alex-stringer/</loc>
-      <lastmod>2023-01-20T00:00:00-08:00</lastmod>
+      <lastmod>2023-01-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -270,7 +270,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/andrew-appleton/</loc>
-      <lastmod>2019-05-01T00:00:00-07:00</lastmod>
+      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -287,7 +287,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/</loc>
-      <lastmod>2022-02-15T00:00:00-08:00</lastmod>
+      <lastmod>2022-02-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -296,7 +296,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/been-kim/</loc>
-      <lastmod>2023-06-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -305,7 +305,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/</loc>
-      <lastmod>2019-03-06T00:00:00-08:00</lastmod>
+      <lastmod>2019-03-06T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -314,7 +314,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/blair-bilodeau/</loc>
-      <lastmod>2023-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2023-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -331,7 +331,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/daniel-m.-roy/</loc>
-      <lastmod>2023-08-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -340,7 +340,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/david-a.-stanford/</loc>
-      <lastmod>2022-01-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -349,7 +349,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/dylan-j.-foster/</loc>
-      <lastmod>2023-03-01T00:00:00-08:00</lastmod>
+      <lastmod>2023-03-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -358,7 +358,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/tags/featured/</loc>
-      <lastmod>2023-08-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -367,7 +367,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/francesco-orabona/</loc>
-      <lastmod>2021-09-01T00:00:00-07:00</lastmod>
+      <lastmod>2021-09-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -376,7 +376,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/linbo-wang/</loc>
-      <lastmod>2022-02-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -385,7 +385,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/mark-goldszmidt/</loc>
-      <lastmod>2019-05-01T00:00:00-07:00</lastmod>
+      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -394,7 +394,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/natasha-jaques/</loc>
-      <lastmod>2022-12-01T00:00:00-08:00</lastmod>
+      <lastmod>2023-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -403,7 +403,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/nicol%C3%B2-campolongo/</loc>
-      <lastmod>2021-09-01T00:00:00-07:00</lastmod>
+      <lastmod>2021-09-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -412,7 +412,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/pang-wei-koh/</loc>
-      <lastmod>2022-12-01T00:00:00-08:00</lastmod>
+      <lastmod>2023-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -421,7 +421,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication/</loc>
-      <lastmod>2023-08-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-10-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -444,7 +444,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/publication_types/</loc>
-      <lastmod>2022-02-01T00:00:00-08:00</lastmod>
+      <lastmod>2022-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -453,7 +453,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/talk/</loc>
-      <lastmod>2019-05-27T13:45:00-07:00</lastmod>
+      <lastmod>2019-05-27T13:45:00-04:00</lastmod>
     </url>
     
   
@@ -476,7 +476,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -485,7 +485,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/teaching/</loc>
-      <lastmod>2021-07-13T00:00:00-07:00</lastmod>
+      <lastmod>2021-07-13T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -494,7 +494,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/wieland-brendel/</loc>
-      <lastmod>2023-06-01T00:00:00-07:00</lastmod>
+      <lastmod>2023-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -510,7 +510,7 @@
     <url>
     
       <loc>https://blairbilodeau.github.io/authors/yanbo-tang/</loc>
-      <lastmod>2023-01-20T00:00:00-08:00</lastmod>
+      <lastmod>2023-01-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

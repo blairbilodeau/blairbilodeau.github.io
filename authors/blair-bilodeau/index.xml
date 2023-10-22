@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2023</copyright>
-    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/blair-bilodeau/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Impossibility Theorems for Feature Attribution</title>
+      <link>https://blairbilodeau.github.io/publication/interpretability/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Minimax Rates for Conditional Density Estimation via Empirical Entropy</title>
       <link>https://blairbilodeau.github.io/publication/density-estimation/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/density-estimation/</guid>
       <description></description>
@@ -24,25 +33,16 @@
     <item>
       <title>On the Tightness of the Laplace Approximation for Statistical Inference</title>
       <link>https://blairbilodeau.github.io/publication/laplace-lower/</link>
-      <pubDate>Fri, 20 Jan 2023 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/laplace-lower/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Impossibility Theorems for Feature Attribution</title>
-      <link>https://blairbilodeau.github.io/publication/interpretability/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 -0800</pubDate>
-      
-      <guid>https://blairbilodeau.github.io/publication/interpretability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Adaptively Exploiting d-Separators with Causal Bandits</title>
       <link>https://blairbilodeau.github.io/publication/adaptive-causal/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/adaptive-causal/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs</title>
       <link>https://blairbilodeau.github.io/publication/avg-wait/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/avg-wait/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>STA347: Probability Theory</title>
       <link>https://blairbilodeau.github.io/teaching/sta347/</link>
-      <pubDate>Tue, 13 Jul 2021 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/teaching/sta347/</guid>
       <description>Course notes I made for teaching STA347: Probability Theory at the University of Toronto.</description>
@@ -69,7 +69,7 @@
     <item>
       <title>Introduction to Theoretical Statistics Research</title>
       <link>https://blairbilodeau.github.io/teaching/intro-theory/</link>
-      <pubDate>Sat, 10 Jul 2021 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/teaching/intro-theory/</guid>
       <description>Undergraduate statistics courses focus heavily on how statistics is applied in practice along with theoretical guarantees on how classical methods perform, but often leave undergrads unclear what modern theoretical research looks like, or how to begin doing it themselves. In this seminar, I’ll introduce at a high-level my views on what the key common aspects are of most theoretical statistics results. Topics of discussion include: questions theoreticians aim to answer, impacts of theoretical research on statistical practice, and limitations of current common trends in theoretical statistics.</description>
@@ -78,7 +78,7 @@
     <item>
       <title>Scripts to Scrape Data from arXiv and biorXiv</title>
       <link>https://blairbilodeau.github.io/teaching/arxiv-biorxiv/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 23 May 2020 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/teaching/arxiv-biorxiv/</guid>
       <description>Python script to facilitate easy automatic pulling of new papers from arXiv, biorXiv, and medrXiv with custom search features.</description>
@@ -87,7 +87,7 @@
     <item>
       <title>Tight Bounds on Minimax Regret Under Logarithmic Loss via Self-Concordance</title>
       <link>https://blairbilodeau.github.io/publication/minimax-logloss/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/minimax-logloss/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Simulated Co-location of Patients Admitted to an Inpatient Internal Medicine Teaching Unit: Potential Impacts on Efficiency and Physician-Nurse Collaboration</title>
       <link>https://blairbilodeau.github.io/publication/colocation/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
       <guid>https://blairbilodeau.github.io/publication/colocation/</guid>
       <description></description>

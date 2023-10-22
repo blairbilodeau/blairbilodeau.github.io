@@ -1,6 +1,6 @@
-@misc{bilodeau22impossibility,
+@article{impossibility,
   author = {{Bilodeau}, Blair and {Jaques}, Natasha and {Koh}, Pang Wei and {Kim}, Been},
   title = {Impossibility Theorems for Feature Attribution},
-  year = {2022},
-  note = {arXiv:2212.11870},
+  year = {2023},
+  journal = {Proceedings of the National Academy of Sciences (to appear)},
 }

@@ -1,4 +1,4 @@
-@inproceedings{bilodeau22causal,
+@inproceedings{causal,
   author = {{Bilodeau}, Blair and {Wang}, Linbo and {Roy}, Daniel M.},
   title = {Adaptively Exploiting $d$-Separators with Causal Bandits},
   year = {2022},

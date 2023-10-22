@@ -1,4 +1,4 @@
-@article{bilodeau19colocation,
+@article{colocation,
   author = {{Bilodeau}, Blair and {Stanford}, David A. and {Goldszmidt}, Mark and {Appleton}, Mark},
   title = {Simulated Co-location of Patients Admitted to an Inpatient Internal Medicine Teaching Unit: Potential Impacts on Efficiency and Physician-Nurse Collaboration},
   year = {2019},

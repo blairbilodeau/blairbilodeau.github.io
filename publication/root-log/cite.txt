@@ -1,4 +1,4 @@
-@inproceedings{negrea21rootlog,
+@inproceedings{rootlog,
   author = {{Negrea}, Jeffrey and {Bilodeau}, Blair and {Campolongo}, Nicol\`{o} and {Orabona}, Francesco and {Roy}, Daniel M.},
   title = {Minimax Optimal Quantile and Semi-Adversarial Regret via Root-Logarithmic Regularizers},
   year = {2021},

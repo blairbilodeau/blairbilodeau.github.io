@@ -1,4 +1,4 @@
-@article{bilodeau22apq,
+@article{apq,
   author = {{Bilodeau}, Blair and {Stanford}, David A.},
   title = {High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care {KPIs}},
   year = {2022},

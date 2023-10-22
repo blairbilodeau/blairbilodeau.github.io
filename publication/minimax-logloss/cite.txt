@@ -1,4 +1,4 @@
-@inproceedings{bilodeau20logloss,
+@inproceedings{logloss,
   author = {{Bilodeau}, Blair and {Foster}, Dylan J. and {Roy}, Daniel M.},
   title = {Tight Bounds on Minimax Regret under Logarithmic Loss via Self-Concordance},
   year = {2020},

@@ -1,4 +1,4 @@
-@article{bilodeau22aghq,
+@article{aghq,
   author = {{Bilodeau}, Blair and {Stringer}, Alex and {Tang}, Yanbo},
   title = {Stochastic Convergence Rates and Applications of Adaptive Quadrature in {Bayesian} Inference},
   year = {2022},
