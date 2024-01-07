@@ -1,6 +1,8 @@
 @article{impossibility,
   author = {{Bilodeau}, Blair and {Jaques}, Natasha and {Koh}, Pang Wei and {Kim}, Been},
   title = {Impossibility Theorems for Feature Attribution},
-  year = {2023},
-  journal = {Proceedings of the National Academy of Sciences (to appear)},
+  year = {2024},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {121},
+  number = {2}
 }
