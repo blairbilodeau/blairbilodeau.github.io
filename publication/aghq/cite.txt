@@ -1,6 +1,9 @@
 @article{aghq,
   author = {{Bilodeau}, Blair and {Stringer}, Alex and {Tang}, Yanbo},
   title = {Stochastic Convergence Rates and Applications of Adaptive Quadrature in {Bayesian} Inference},
-  year = {2022},
-  journal = {Journal of the American Statistical Association (in press)}
+  year = {2024},
+  volume = {119},
+  number = {545},
+  pages = {690--700},
+  journal = {Journal of the American Statistical Association}
 }
