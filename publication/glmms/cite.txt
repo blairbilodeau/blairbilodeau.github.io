@@ -1,6 +1,6 @@
-@misc{glmms,
-  author = {{Stringer}, Alex and {Bilodeau}, Blair},
-  title = {Fitting Generalized Linear Mixed Models using Adaptive Quadrature},
-  year = {2022},
-  note = {arXiv:2202.07864},
+@article{glmms,
+  author = {{Bilodeau}, Blair and {Stringer}, Alex and {Tang}, Yanbo},
+  title = {Asymptotics of Numerical Integration for Two-Level Mixed Models},
+  year = {2025},
+  journal = {Bernoulli (to appear)},
 }

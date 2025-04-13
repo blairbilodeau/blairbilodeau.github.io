@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Blair Bilodeau 2024</copyright>
-    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blairbilodeau.github.io/authors/alex-stringer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Asymptotics of Numerical Integration for Two-Level Mixed Models</title>
+      <link>https://blairbilodeau.github.io/publication/glmms/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://blairbilodeau.github.io/publication/glmms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Tightness of the Laplace Approximation for Statistical Inference</title>
